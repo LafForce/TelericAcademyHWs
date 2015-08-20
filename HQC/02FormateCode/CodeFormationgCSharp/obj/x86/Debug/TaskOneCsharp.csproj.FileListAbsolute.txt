@@ -1,0 +1,8 @@
+C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CodeFormationg\obj\x86\Debug\TaskOneCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CodeFormationg\bin\Debug\ConsoleApplication.exe
+C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CodeFormationg\bin\Debug\ConsoleApplication.pdb
+C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CodeFormationg\bin\Debug\GeoAPI.dll
+C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CodeFormationg\bin\Debug\NetTopologySuite.dll
+C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CodeFormationg\bin\Debug\PowerCollections.dll
+C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CodeFormationg\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CodeFormationg\obj\x86\Debug\ConsoleApplication.pdb

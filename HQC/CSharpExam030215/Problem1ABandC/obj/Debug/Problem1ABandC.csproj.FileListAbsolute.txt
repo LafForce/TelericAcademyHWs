@@ -1,0 +1,6 @@
+C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CSharpExam030215\Problem1ABandC\bin\Debug\Problem1ABandC.exe.config
+C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CSharpExam030215\Problem1ABandC\obj\Debug\Problem1ABandC.csprojResolveAssemblyReference.cache
+C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CSharpExam030215\Problem1ABandC\bin\Debug\Problem1ABandC.exe
+C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CSharpExam030215\Problem1ABandC\bin\Debug\Problem1ABandC.pdb
+C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CSharpExam030215\Problem1ABandC\obj\Debug\Problem1ABandC.exe
+C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CSharpExam030215\Problem1ABandC\obj\Debug\Problem1ABandC.pdb
