@@ -1,0 +1,13 @@
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb
+D:\Users\LaForce.OhBoy\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\05.PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\Users\LaForce.OhBoy\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\05.PrintMyName\obj\Debug\PrintMyName.exe
+D:\Users\LaForce.OhBoy\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\05.PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\05.PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\05.PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\05.PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\05.PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\05.PrintMyName\obj\Debug\PrintMyName.pdb

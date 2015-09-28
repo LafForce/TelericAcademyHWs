@@ -1,0 +1,11 @@
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.exe.config
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.exe
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.pdb
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\09.PrintSequence\obj\Debug\09.PrintSequence.exe
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\09.PrintSequence\obj\Debug\09.PrintSequence.pdb
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.exe.config
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.exe
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.pdb
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\09.PrintSequence\obj\Debug\09.PrintSequence.csprojResolveAssemblyReference.cache
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\09.PrintSequence\obj\Debug\09.PrintSequence.exe
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\09.PrintSequence\obj\Debug\09.PrintSequence.pdb
