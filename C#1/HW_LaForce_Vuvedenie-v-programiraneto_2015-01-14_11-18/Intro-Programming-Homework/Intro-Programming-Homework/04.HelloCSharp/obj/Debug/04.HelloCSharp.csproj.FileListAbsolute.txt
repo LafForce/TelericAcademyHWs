@@ -1,5 +1,14 @@
+<<<<<<< .mine
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.pdb
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.exe
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.pdb
+||||||| .r0
+=======
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.pdb
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.exe
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.pdb
+>>>>>>> .r6

@@ -1,1 +1,0 @@
-C:\Users\Alexa_000\Documents\GitHub\HW\HQC\ControlFlowConditionalStatementsAndLoopsHomework\Task01ClassChefInCSharp\bin\Debug\Task01ClassChefInCSharp.exe.config

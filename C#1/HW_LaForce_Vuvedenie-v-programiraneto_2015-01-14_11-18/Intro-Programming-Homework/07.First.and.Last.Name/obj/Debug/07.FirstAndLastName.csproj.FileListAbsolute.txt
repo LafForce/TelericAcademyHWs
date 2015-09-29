@@ -1,3 +1,4 @@
+<<<<<<< .mine
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\07.First.and.Last.Name\bin\Debug\07.First.and.Last.Name.exe.config
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\07.First.and.Last.Name\bin\Debug\07.First.and.Last.Name.exe
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\07.First.and.Last.Name\bin\Debug\07.First.and.Last.Name.pdb
@@ -10,3 +11,18 @@ C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-pr
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\07.First.and.Last.Name\obj\Debug\07.FirstAndLastName.csprojResolveAssemblyReference.cache
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\07.First.and.Last.Name\obj\Debug\07.First.and.Last.Name.exe
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\07.First.and.Last.Name\obj\Debug\07.First.and.Last.Name.pdb
+||||||| .r0
+=======
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\07.First.and.Last.Name\bin\Debug\07.First.and.Last.Name.exe.config
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\07.First.and.Last.Name\bin\Debug\07.First.and.Last.Name.exe
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\07.First.and.Last.Name\bin\Debug\07.First.and.Last.Name.pdb
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\07.First.and.Last.Name\obj\Debug\07.First.and.Last.Name.exe
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\07.First.and.Last.Name\obj\Debug\07.First.and.Last.Name.pdb
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\07.First.and.Last.Name\obj\Debug\07.FirstAndLastName.csprojResolveAssemblyReference.cache
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\07.First.and.Last.Name\bin\Debug\07.First.and.Last.Name.exe.config
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\07.First.and.Last.Name\bin\Debug\07.First.and.Last.Name.exe
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\07.First.and.Last.Name\bin\Debug\07.First.and.Last.Name.pdb
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\07.First.and.Last.Name\obj\Debug\07.FirstAndLastName.csprojResolveAssemblyReference.cache
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\07.First.and.Last.Name\obj\Debug\07.First.and.Last.Name.exe
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\07.First.and.Last.Name\obj\Debug\07.First.and.Last.Name.pdb
+>>>>>>> .r6

@@ -1,3 +1,4 @@
+<<<<<<< .mine
 d:\users\laforce.ohboy\documents\visual studio 2013\Projects\02.Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
 d:\users\laforce.ohboy\documents\visual studio 2013\Projects\02.Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
 d:\users\laforce.ohboy\documents\visual studio 2013\Projects\02.Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
@@ -10,3 +11,18 @@ C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tip
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\obj\Debug\02.FloatOrDouble.csprojResolveAssemblyReference.cache
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+||||||| .r0
+=======
+d:\users\laforce.ohboy\documents\visual studio 2013\Projects\02.Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+d:\users\laforce.ohboy\documents\visual studio 2013\Projects\02.Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+d:\users\laforce.ohboy\documents\visual studio 2013\Projects\02.Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+d:\users\laforce.ohboy\documents\visual studio 2013\Projects\02.Data-Types-and-Variables\FloatOrDouble\obj\Debug\02.FloatOrDouble.csprojResolveAssemblyReference.cache
+d:\users\laforce.ohboy\documents\visual studio 2013\Projects\02.Data-Types-and-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+d:\users\laforce.ohboy\documents\visual studio 2013\Projects\02.Data-Types-and-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\obj\Debug\02.FloatOrDouble.csprojResolveAssemblyReference.cache
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+>>>>>>> .r6

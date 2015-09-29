@@ -1,6 +1,16 @@
+<<<<<<< .mine
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10\bin\Debug\15.AgeAfter10.exe.config
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10\bin\Debug\15.AgeAfter10.exe
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10\bin\Debug\15.AgeAfter10.pdb
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10\obj\Debug\15.AgeAfter10.exe
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10\obj\Debug\15.AgeAfter10.pdb
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10\obj\Debug\15.AgeAfter10.csprojResolveAssemblyReference.cache
+||||||| .r0
+=======
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10\bin\Debug\15.AgeAfter10.exe.config
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10\bin\Debug\15.AgeAfter10.exe
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10\bin\Debug\15.AgeAfter10.pdb
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10\obj\Debug\15.AgeAfter10.exe
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10\obj\Debug\15.AgeAfter10.pdb
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\15.AgeAfter10\obj\Debug\15.AgeAfter10.csprojResolveAssemblyReference.cache
+>>>>>>> .r6

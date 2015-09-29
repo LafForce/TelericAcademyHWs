@@ -1,6 +1,0 @@
-C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CSharpExam030215\Task4Ex-rugs\bin\Debug\Task4Ex-rugs.exe.config
-C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CSharpExam030215\Task4Ex-rugs\bin\Debug\Task4Ex-rugs.exe
-C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CSharpExam030215\Task4Ex-rugs\bin\Debug\Task4Ex-rugs.pdb
-C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CSharpExam030215\Task4Ex-rugs\obj\Debug\Task4Ex-rugs.exe
-C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CSharpExam030215\Task4Ex-rugs\obj\Debug\Task4Ex-rugs.pdb
-C:\Users\Alexa_000\Documents\GitHub\HW\HQC\CSharpExam030215\Task4Ex-rugs\obj\Debug\Task4Ex-rugs.csprojResolveAssemblyReference.cache

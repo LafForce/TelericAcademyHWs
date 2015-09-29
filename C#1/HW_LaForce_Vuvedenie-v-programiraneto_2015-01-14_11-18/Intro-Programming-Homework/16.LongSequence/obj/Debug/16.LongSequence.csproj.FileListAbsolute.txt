@@ -1,3 +1,4 @@
+<<<<<<< .mine
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\16.LongSequence\bin\Debug\16.LongSequence.exe.config
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\16.LongSequence\bin\Debug\16.LongSequence.exe
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\16.LongSequence\bin\Debug\16.LongSequence.pdb
@@ -8,3 +9,16 @@ C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-pr
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\16.LongSequence\bin\Debug\16.LongSequence.pdb
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\16.LongSequence\obj\Debug\16.LongSequence.exe
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\16.LongSequence\obj\Debug\16.LongSequence.pdb
+||||||| .r0
+=======
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\16.LongSequence\bin\Debug\16.LongSequence.exe.config
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\16.LongSequence\bin\Debug\16.LongSequence.exe
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\16.LongSequence\bin\Debug\16.LongSequence.pdb
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\16.LongSequence\obj\Debug\16.LongSequence.exe
+D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\16.LongSequence\obj\Debug\16.LongSequence.pdb
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\16.LongSequence\bin\Debug\16.LongSequence.exe.config
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\16.LongSequence\bin\Debug\16.LongSequence.exe
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\16.LongSequence\bin\Debug\16.LongSequence.pdb
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\16.LongSequence\obj\Debug\16.LongSequence.exe
+C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\16.LongSequence\obj\Debug\16.LongSequence.pdb
+>>>>>>> .r6

@@ -1,1 +1,6 @@
+<<<<<<< .mine
 C:\Users\Vili\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\07.PointInCircle\bin\Debug\07.PointInCircle.exe.config
+||||||| .r0
+=======
+C:\Users\Vili\Documents\Visual Studio 2013\Projects\Operators-And-Expressions\07.PointInCircle\bin\Debug\07.PointInCircle.exe.config
+>>>>>>> .r6

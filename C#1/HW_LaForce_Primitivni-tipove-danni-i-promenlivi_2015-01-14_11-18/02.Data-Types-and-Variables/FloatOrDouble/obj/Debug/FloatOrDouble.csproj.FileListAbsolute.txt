@@ -1,1 +1,6 @@
+<<<<<<< .mine
 d:\users\laforce.ohboy\documents\visual studio 2013\Projects\02.Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+||||||| .r0
+=======
+d:\users\laforce.ohboy\documents\visual studio 2013\Projects\02.Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+>>>>>>> .r6

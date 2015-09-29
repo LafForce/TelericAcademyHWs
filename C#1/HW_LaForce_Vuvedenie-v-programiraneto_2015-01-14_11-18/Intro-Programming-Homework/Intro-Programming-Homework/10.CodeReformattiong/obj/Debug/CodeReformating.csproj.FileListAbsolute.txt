@@ -1,5 +1,14 @@
+<<<<<<< .mine
 d:\users\laforce.ohboy\documents\visual studio 2013\Projects\Intro-Programming-Homework\CodeReformattiong\bin\Debug\CodeReformattiong.exe.config
 d:\users\laforce.ohboy\documents\visual studio 2013\Projects\Intro-Programming-Homework\CodeReformattiong\bin\Debug\CodeReformattiong.exe
 d:\users\laforce.ohboy\documents\visual studio 2013\Projects\Intro-Programming-Homework\CodeReformattiong\bin\Debug\CodeReformattiong.pdb
 d:\users\laforce.ohboy\documents\visual studio 2013\Projects\Intro-Programming-Homework\CodeReformattiong\obj\Debug\CodeReformattiong.exe
 d:\users\laforce.ohboy\documents\visual studio 2013\Projects\Intro-Programming-Homework\CodeReformattiong\obj\Debug\CodeReformattiong.pdb
+||||||| .r0
+=======
+d:\users\laforce.ohboy\documents\visual studio 2013\Projects\Intro-Programming-Homework\CodeReformattiong\bin\Debug\CodeReformattiong.exe.config
+d:\users\laforce.ohboy\documents\visual studio 2013\Projects\Intro-Programming-Homework\CodeReformattiong\bin\Debug\CodeReformattiong.exe
+d:\users\laforce.ohboy\documents\visual studio 2013\Projects\Intro-Programming-Homework\CodeReformattiong\bin\Debug\CodeReformattiong.pdb
+d:\users\laforce.ohboy\documents\visual studio 2013\Projects\Intro-Programming-Homework\CodeReformattiong\obj\Debug\CodeReformattiong.exe
+d:\users\laforce.ohboy\documents\visual studio 2013\Projects\Intro-Programming-Homework\CodeReformattiong\obj\Debug\CodeReformattiong.pdb
+>>>>>>> .r6
