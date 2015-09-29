@@ -1,0 +1,33 @@
+﻿ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+    ul ul {
+        display: none;
+    }
+
+li:hover > ul {
+    display: block;
+    color: GrayText;
+    padding-left: 10px;
+}
+
+li:hover::first-line {
+    text-decoration: underline;
+}
+
+.solution {
+    display: inline-block;
+    float: left;
+    padding: 5px;
+    border: dashed 3px;
+}
+
+.given {
+    display: inline-block;
+    float: right;
+    margin: 5px;
+    border: solid 1px red;
+}

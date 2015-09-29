@@ -1,0 +1,68 @@
+﻿<!--Do not forget to switch the Startup Proect :)-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <form action="#" method="#">
+        <table border="1">
+            <colgroup>
+                <col width="130px" />
+                <col width="250px" />
+            </colgroup>
+            <!--I realise now that it would be easy to make those bold by th but... whatever it is good enought I think-->
+            <tr><td align="justify"><b>Last Name</b> </td><td><input type="text" /></td></tr>
+            <tr><td align="justify"><b>First Name</b> </td><td><input type="text" /></td></tr>
+            <tr><td align="justify"><b>Address</b></td><td><textarea rows="4" name="address"></textarea></td></tr>
+            <tr><td align="justify"><b>Zip/Postal Code</b> </td><td><input type="text" size="4" /></td></tr>
+            <tr>
+                <td align="justify"><b>Country</b></td>
+                <td>
+                    <select name="country">
+                        <option value="1" selected="selected">Bulgaria</option>
+                        <option value="2">Jamaika</option>
+                        <option value="3">Machu-Pictu</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td align="justify"><b>Phone(country code, area code, number )</b> </td>
+                <td>(+<input type="text" maxlength="3" size="3" />) <input type="text" maxlength="3" size="3"/><input type="text" size="8" /></td>
+            </tr>
+            <tr><td align="justify"><b>E-mail</b> </td><td><input type="email" pattern="[^ @]*@[^ @].[^ @]"></td></tr>
+            <tr><td align="justify"><b>Birth date</b> </td><td><input type="date"></td></tr>
+            <tr>
+                <td align="justify"><b>Gender</b> </td>
+                <td>
+                    <select name="gender">
+                        <option value="Value 1" selected="selected">Male</option>
+                        <option value="Value 2">Female</option>
+                        <option value="Value 3">Other</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td align="justify">
+                    <b>Starting date</b>
+                </td>
+                <td>
+                    <input type="radio" name="start" value="Spring"/>Spring 2015
+                    <input type="radio" name="start" value="Summer"/>Summer 2015
+                </td>
+            </tr>
+            <tr>
+                <td align="justify"><b>Comments/Questions</b></td>
+                <td><textarea rows="8" name="comment section"></textarea></td>
+            </tr>
+            <tr style="background-color:darkmagenta">
+                <td colspan="2" align="center">
+                    <input type="submit" name="rdy" value="Submit" />
+                    <input type="reset" name="redo" value="Clean This Form" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

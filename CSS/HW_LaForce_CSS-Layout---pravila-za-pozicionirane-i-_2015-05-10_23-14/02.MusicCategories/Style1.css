@@ -1,0 +1,103 @@
+﻿body, header, section, footer, article, h1, h2, h3, h4, h5, h6, input, button, label, p, fieldset, nav, ul, li, a, span, strong, em {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+div, h1, h3, h4, h5, h6, header, footer, body, section, nav, article, aside {
+    display: block;
+}
+
+body {
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    background-color: #eee;
+}
+
+.solution {
+    display: block;
+    float: left;
+    padding-bottom: 5px;
+}
+
+.given {
+    float: right;
+    display: inline-block;
+    margin: 5px;
+    border: solid 1px red;
+    font-weight: 700;
+}
+
+body em {
+    font-style: normal;
+    font-weight: bolder;
+}
+
+body h1 {
+    font-weight: 100;
+    font-size: 1.1em;
+    margin: 15px;
+}
+
+div#category {
+    border: solid 1px black;
+    width: 400px;
+    height: 100px;
+    margin: 40px 15px;
+    padding: 15px;
+    background-color: white;
+    zoom: 1;
+}
+
+p {
+    padding-bottom: 20px;
+    margin: 0;
+}
+
+#category > img {
+    border: 1px solid #b3b3b3;
+    float: left;
+    margin-right: 10px;
+}
+
+div.button2 {
+    margin-right: 3px;
+    float: right;
+    width: 77px;
+}
+
+div.button1 {
+    float: right;
+    width: 65px;
+}
+
+.button1, .button2 {
+    background: url(images/button.png) repeat-y;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border: 2px ridge rgba(138, 0, 0, 0.6);
+}
+
+p a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}
+
+    p a:hover {
+        text-decoration: underline;
+    }
+
+#category:after {
+    content: "";
+    display: block;
+    clear: both;
+    height: 0;
+}
