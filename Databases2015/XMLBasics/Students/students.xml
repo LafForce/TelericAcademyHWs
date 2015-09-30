@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students xmlns="urn:students" ID="1">
+  <student>
+    <name>Pesho Peshov</name>
+    <sex>female</sex>
+    <birthDate type="Date">15/09/1996 </birthDate>
+    <phone>0987654321</phone>
+    <email>pesho@mail.mail</email>
+    <course>3</course>
+    <speciality>Master Of Disaster</speciality>
+    <facultyNumber>00000001</facultyNumber>
+    <listOfTakenExams>
+      <exam>
+        <examName>Introduction to Disaster</examName>
+        <tutor>Bai Ivan</tutor>
+        <score>A+</score>
+      </exam>
+      <exam>
+        <examName>Math</examName>
+        <tutor>G-ca Mariikina</tutor>
+        <score>F</score>
+      </exam>
+      <exam>
+        <examName>Business Geshafts</examName>
+        <tutor>Costume Whearer</tutor>
+        <score>B</score>
+      </exam>
+    </listOfTakenExams>
+  </student>
+  <student id="2">
+    <name>Goshka Goshova</name>
+    <sex>female</sex>
+    <birthDate type="Date">05/07/1999 </birthDate>
+    <phone>0987654322</phone>
+    <email>goshka@mail.mail</email>
+    <course>1</course>
+    <speciality>Commercial Whining</speciality>
+    <facultyNumber>00000111</facultyNumber>
+    <listOfTakenExams>
+      <exam>
+        <examName>Dry Weeping</examName>
+        <tutor>Oldie Goldie</tutor>
+        <score>B+</score>
+      </exam>
+      <exam>
+        <examName>Math</examName>
+        <tutor>G-ca Mariikina</tutor>
+        <score>C</score>
+      </exam>
+      <exam>
+        <examName>Annoying Crying</examName>
+        <tutor>Haralampii Hristov</tutor>
+        <score>A</score>
+      </exam>
+    </listOfTakenExams>
+  </student>
+  <student id="3">
+    <name>Gosho Goshov</name>
+    <sex>never :P</sex>
+    <birthDate type="Date">10/10/1910</birthDate>
+    <phone>0987654312</phone>
+    <email>oldgeezer@strange.mail</email>
+    <course>4</course>
+    <speciality>Anythingology</speciality>
+    <facultyNumber>100008989</facultyNumber>
+    <listOfTakenExams>
+      <exam>
+        <examName>Advanced Stupidity and Self-harm</examName>
+        <tutor>Borethem Tothedeath</tutor>
+        <score>A+</score>
+      </exam>
+    </listOfTakenExams>
+  </student>
+</students>
+<!--
+Task 2:
+XML document students.xml, which contains structured description of students.
+For each student you should enter information for his name, sex, birth date, phone,
+email, course, specialty, faculty number and a list of taken exams (exam name, tutor, score).
+
+Task 5:
+Add default namespace for students "urn:students".
+
+Task 6:
+Create XSD Schema for students.xml document.
+Add new elements in the schema: information for enrollment (date and exam score) and teacher's endorsements.
+-->

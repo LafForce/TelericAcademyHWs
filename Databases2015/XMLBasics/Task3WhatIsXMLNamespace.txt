@@ -1,0 +1,7 @@
+3. What do namespaces represent in an XML document? What are they used for?
+
+================================================================================
+Solution: 
+
+Namespaces are attributes defined with [xlmns:[name]="URI"] 
+syntax that assure uniqueness to the containing element.

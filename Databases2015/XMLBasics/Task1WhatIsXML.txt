@@ -1,0 +1,7 @@
+1. What does the XML language represent? What is it used for?
+
+================================================================================
+Solution:
+
+XML stands for eXtensible Markup Language. It is a W3C standard, and is strictly defined.
+It is used for creating documents on a specific rules so it is easily readable by machines and humans alike.
