@@ -3,4 +3,4 @@
 **That's just about all.**
 
 PS:
-I will be adding the HWs for previous courses latter.
+I will be adding the HWs for the previous courses latter.

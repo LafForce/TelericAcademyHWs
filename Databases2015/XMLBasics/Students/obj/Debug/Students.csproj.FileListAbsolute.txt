@@ -1,0 +1,2 @@
+C:\Users\LaForce\Documents\GitHub\TelericAcademyHWs\Databases2015\XMLBasics\Students\bin\Debug\Students.exe.config
+C:\Users\LaForce\Documents\GitHub\TelericAcademyHWs\Databases2015\XMLBasics\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
