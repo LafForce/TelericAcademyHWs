@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dir path="../../../../">
+  <dir path="../../../../XMLBasics">
+    <dir path="../../../../XMLBasics\.vs">
+      <dir path="../../../../XMLBasics\.vs\XMLBasics">
+        <dir path="../../../../XMLBasics\.vs\XMLBasics\v14">
+          <file name="" ext=".suo" />
+        </dir>
+      </dir>
+    </dir>
+    <dir path="../../../../XMLBasics\Students">
+      <dir path="../../../../XMLBasics\Students\bin">
+        <dir path="../../../../XMLBasics\Students\bin\Debug">
+          <file name="Students.exe" ext=".config" />
+          <file name="Students.vshost" ext=".exe" />
+          <file name="Students.vshost.exe" ext=".config" />
+          <file name="Students.vshost.exe" ext=".manifest" />
+        </dir>
+      </dir>
+      <dir path="../../../../XMLBasics\Students\obj">
+        <dir path="../../../../XMLBasics\Students\obj\Debug">
+          <dir path="../../../../XMLBasics\Students\obj\Debug\TempPE" />
+          <file name="Students.csproj.FileListAbsolute" ext=".txt" />
+          <file name="Students.csprojResolveAssemblyReference" ext=".cache" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" ext=".cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" ext=".cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" ext=".cs" />
+        </dir>
+      </dir>
+      <dir path="../../../../XMLBasics\Students\Properties">
+        <file name="AssemblyInfo" ext=".cs" />
+      </dir>
+      <file name="App" ext=".config" />
+      <file name="Students" ext=".csproj" />
+      <file name="students" ext=".xml" />
+      <file name="style" ext=".xslt" />
+    </dir>
+    <file name="Task1WhatIsXML" ext=".txt" />
+    <file name="Task3WhatIsXMLNamespace" ext=".txt" />
+    <file name="XMLBasics" ext=".sln" />
+  </dir>
+  <dir path="../../../../XMLProcessing">
+    <dir path="../../../../XMLProcessing\.vs">
+      <dir path="../../../../XMLProcessing\.vs\config">
+        <file name="applicationhost" ext=".config" />
+      </dir>
+      <dir path="../../../../XMLProcessing\.vs\XMLProcessing">
+        <dir path="../../../../XMLProcessing\.vs\XMLProcessing\v14">
+          <file name="" ext=".suo" />
+        </dir>
+      </dir>
+    </dir>
+    <dir path="../../../../XMLProcessing\02AuthorAndAlbumNumberLister">
+      <dir path="../../../../XMLProcessing\02AuthorAndAlbumNumberLister\bin">
+        <dir path="../../../../XMLProcessing\02AuthorAndAlbumNumberLister\bin\Debug">
+          <file name="02AuthorAndAlbumNumberLister" ext=".exe" />
+          <file name="02AuthorAndAlbumNumberLister.exe" ext=".config" />
+          <file name="02AuthorAndAlbumNumberLister" ext=".pdb" />
+          <file name="02AuthorAndAlbumNumberLister.vshost" ext=".exe" />
+          <file name="02AuthorAndAlbumNumberLister.vshost.exe" ext=".config" />
+          <file name="02AuthorAndAlbumNumberLister.vshost.exe" ext=".manifest" />
+        </dir>
+        <dir path="../../../../XMLProcessing\02AuthorAndAlbumNumberLister\bin\Release" />
+      </dir>
+      <dir path="../../../../XMLProcessing\02AuthorAndAlbumNumberLister\obj">
+        <dir path="../../../../XMLProcessing\02AuthorAndAlbumNumberLister\obj\Debug">
+          <dir path="../../../../XMLProcessing\02AuthorAndAlbumNumberLister\obj\Debug\TempPE" />
+          <file name="02AuthorAndAlbumNumberLister.csproj.FileListAbsolute" ext=".txt" />
+          <file name="02AuthorAndAlbumNumberLister.csprojResolveAssemblyReference" ext=".cache" />
+          <file name="02AuthorAndAlbumNumberLister" ext=".exe" />
+          <file name="02AuthorAndAlbumNumberLister" ext=".pdb" />
+          <file name="DesignTimeResolveAssemblyReferencesInput" ext=".cache" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" ext=".cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" ext=".cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" ext=".cs" />
+        </dir>
+      </dir>
+      <dir path="../../../../XMLProcessing\02AuthorAndAlbumNumberLister\Properties">
+        <file name="AssemblyInfo" ext=".cs" />
+      </dir>
+      <file name="02AuthorAndAlbumNumberLister" ext=".csproj" />
+      <file name="App" ext=".config" />
+      <file name="Runner" ext=".cs" />
+      <file name="StyleCop" ext=".Cache" />
+    </dir>
+    <dir path="../../../../XMLProcessing\03XpathExtractor">
+      <dir path="../../../../XMLProcessing\03XpathExtractor\bin">
+        <dir path="../../../../XMLProcessing\03XpathExtractor\bin\Debug">
+          <file name="03XpathExtractor" ext=".exe" />
+          <file name="03XpathExtractor.exe" ext=".config" />
+          <file name="03XpathExtractor" ext=".pdb" />
+          <file name="03XpathExtractor.vshost" ext=".exe" />
+          <file name="03XpathExtractor.vshost.exe" ext=".config" />
+        </dir>
+        <dir path="../../../../XMLProcessing\03XpathExtractor\bin\Release" />
+      </dir>
+      <dir path="../../../../XMLProcessing\03XpathExtractor\obj">
+        <dir path="../../../../XMLProcessing\03XpathExtractor\obj\Debug">
+          <dir path="../../../../XMLProcessing\03XpathExtractor\obj\Debug\TempPE" />
+          <file name="03XpathExtractor.csproj.FileListAbsolute" ext=".txt" />
+          <file name="03XpathExtractor.csprojResolveAssemblyReference" ext=".cache" />
+          <file name="03XpathExtractor" ext=".exe" />
+          <file name="03XpathExtractor" ext=".pdb" />
+          <file name="DesignTimeResolveAssemblyReferencesInput" ext=".cache" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" ext=".cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" ext=".cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" ext=".cs" />
+        </dir>
+      </dir>
+      <dir path="../../../../XMLProcessing\03XpathExtractor\Properties">
+        <file name="AssemblyInfo" ext=".cs" />
+      </dir>
+      <file name="03XpathExtractor" ext=".csproj" />
+      <file name="App" ext=".config" />
+      <file name="XpathReunner" ext=".cs" />
+    </dir>
+    <dir path="../../../../XMLProcessing\04ExpensiveMusicDeliter">
+      <dir path="../../../../XMLProcessing\04ExpensiveMusicDeliter\bin">
+        <dir path="../../../../XMLProcessing\04ExpensiveMusicDeliter\bin\Debug">
+          <file name="04ExpensiveMusicDeliter" ext=".exe" />
+          <file name="04ExpensiveMusicDeliter.exe" ext=".config" />
+          <file name="04ExpensiveMusicDeliter" ext=".pdb" />
+          <file name="04ExpensiveMusicDeliter.vshost" ext=".exe" />
+          <file name="04ExpensiveMusicDeliter.vshost.exe" ext=".config" />
+        </dir>
+        <dir path="../../../../XMLProcessing\04ExpensiveMusicDeliter\bin\Release" />
+      </dir>
+      <dir path="../../../../XMLProcessing\04ExpensiveMusicDeliter\obj">
+        <dir path="../../../../XMLProcessing\04ExpensiveMusicDeliter\obj\Debug">
+          <dir path="../../../../XMLProcessing\04ExpensiveMusicDeliter\obj\Debug\TempPE" />
+          <file name="04ExpensiveMusicDeletor.csproj.FileListAbsolute" ext=".txt" />
+          <file name="04ExpensiveMusicDeliter.csproj.FileListAbsolute" ext=".txt" />
+          <file name="04ExpensiveMusicDeliter" ext=".exe" />
+          <file name="04ExpensiveMusicDeliter" ext=".pdb" />
+          <file name="DesignTimeResolveAssemblyReferencesInput" ext=".cache" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" ext=".cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" ext=".cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" ext=".cs" />
+        </dir>
+      </dir>
+      <dir path="../../../../XMLProcessing\04ExpensiveMusicDeliter\Properties">
+        <file name="AssemblyInfo" ext=".cs" />
+      </dir>
+      <file name="04ExpensiveMusicDeletor" ext=".csproj" />
+      <file name="App" ext=".config" />
+      <file name="DeleteEm" ext=".cs" />
+    </dir>
+    <dir path="../../../../XMLProcessing\05XMLReaderTitleExtractor">
+      <dir path="../../../../XMLProcessing\05XMLReaderTitleExtractor\bin">
+        <dir path="../../../../XMLProcessing\05XMLReaderTitleExtractor\bin\Debug">
+          <file name="05XMLReaderTitleExtractor" ext=".exe" />
+          <file name="05XMLReaderTitleExtractor.exe" ext=".config" />
+          <file name="05XMLReaderTitleExtractor" ext=".pdb" />
+          <file name="05XMLReaderTitleExtractor.vshost" ext=".exe" />
+          <file name="05XMLReaderTitleExtractor.vshost.exe" ext=".config" />
+          <file name="05XMLReaderTitleExtractor.vshost.exe" ext=".manifest" />
+        </dir>
+        <dir path="../../../../XMLProcessing\05XMLReaderTitleExtractor\bin\Release" />
+      </dir>
+      <dir path="../../../../XMLProcessing\05XMLReaderTitleExtractor\obj">
+        <dir path="../../../../XMLProcessing\05XMLReaderTitleExtractor\obj\Debug">
+          <dir path="../../../../XMLProcessing\05XMLReaderTitleExtractor\obj\Debug\TempPE" />
+          <file name="05XMLReaderTitleExtractor.csproj.FileListAbsolute" ext=".txt" />
+          <file name="05XMLReaderTitleExtractor" ext=".exe" />
+          <file name="05XMLReaderTitleExtractor" ext=".pdb" />
+          <file name="DesignTimeResolveAssemblyReferencesInput" ext=".cache" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" ext=".cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" ext=".cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" ext=".cs" />
+        </dir>
+      </dir>
+      <dir path="../../../../XMLProcessing\05XMLReaderTitleExtractor\Properties">
+        <file name="AssemblyInfo" ext=".cs" />
+      </dir>
+      <file name="05XMLReaderTitleExtractor" ext=".csproj" />
+      <file name="App" ext=".config" />
+      <file name="ExtractTitles" ext=".cs" />
+    </dir>
+    <dir path="../../../../XMLProcessing\06TitlesThroughLINQ">
+      <dir path="../../../../XMLProcessing\06TitlesThroughLINQ\bin">
+        <dir path="../../../../XMLProcessing\06TitlesThroughLINQ\bin\Debug">
+          <file name="06TitlesThroughLINQ" ext=".exe" />
+          <file name="06TitlesThroughLINQ.exe" ext=".config" />
+          <file name="06TitlesThroughLINQ" ext=".pdb" />
+          <file name="06TitlesThroughLINQ.vshost" ext=".exe" />
+          <file name="06TitlesThroughLINQ.vshost.exe" ext=".config" />
+          <file name="06TitlesThroughLINQ.vshost.exe" ext=".manifest" />
+        </dir>
+        <dir path="../../../../XMLProcessing\06TitlesThroughLINQ\bin\Release" />
+      </dir>
+      <dir path="../../../../XMLProcessing\06TitlesThroughLINQ\obj">
+        <dir path="../../../../XMLProcessing\06TitlesThroughLINQ\obj\Debug">
+          <dir path="../../../../XMLProcessing\06TitlesThroughLINQ\obj\Debug\TempPE" />
+          <file name="06TitlesThroughLINQ.csproj.FileListAbsolute" ext=".txt" />
+          <file name="06TitlesThroughLINQ" ext=".exe" />
+          <file name="06TitlesThroughLINQ" ext=".pdb" />
+          <file name="DesignTimeResolveAssemblyReferencesInput" ext=".cache" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" ext=".cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" ext=".cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" ext=".cs" />
+        </dir>
+      </dir>
+      <dir path="../../../../XMLProcessing\06TitlesThroughLINQ\Properties">
+        <file name="AssemblyInfo" ext=".cs" />
+      </dir>
+      <file name="06TitlesThroughLINQ" ext=".csproj" />
+      <file name="App" ext=".config" />
+      <file name="LINQTitles" ext=".cs" />
+    </dir>
+    <dir path="../../../../XMLProcessing\07XMLPersonalCardCreator">
+      <dir path="../../../../XMLProcessing\07XMLPersonalCardCreator\bin">
+        <dir path="../../../../XMLProcessing\07XMLPersonalCardCreator\bin\Debug">
+          <file name="07XMLPersonalCardCreator" ext=".exe" />
+          <file name="07XMLPersonalCardCreator.exe" ext=".config" />
+          <file name="07XMLPersonalCardCreator" ext=".pdb" />
+          <file name="07XMLPersonalCardCreator.vshost" ext=".exe" />
+          <file name="07XMLPersonalCardCreator.vshost.exe" ext=".config" />
+        </dir>
+        <dir path="../../../../XMLProcessing\07XMLPersonalCardCreator\bin\Release" />
+      </dir>
+      <dir path="../../../../XMLProcessing\07XMLPersonalCardCreator\obj">
+        <dir path="../../../../XMLProcessing\07XMLPersonalCardCreator\obj\Debug">
+          <dir path="../../../../XMLProcessing\07XMLPersonalCardCreator\obj\Debug\TempPE" />
+          <file name="07XMLPersonalCardCreator.csproj.FileListAbsolute" ext=".txt" />
+          <file name="07XMLPersonalCardCreator.csprojResolveAssemblyReference" ext=".cache" />
+          <file name="07XMLPersonalCardCreator" ext=".exe" />
+          <file name="07XMLPersonalCardCreator" ext=".pdb" />
+          <file name="DesignTimeResolveAssemblyReferencesInput" ext=".cache" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" ext=".cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" ext=".cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" ext=".cs" />
+        </dir>
+      </dir>
+      <dir path="../../../../XMLProcessing\07XMLPersonalCardCreator\Properties">
+        <file name="AssemblyInfo" ext=".cs" />
+      </dir>
+      <file name="07XMLPersonalCardCreator" ext=".csproj" />
+      <file name="App" ext=".config" />
+      <file name="Person" ext=".cs" />
+      <file name="person" ext=".xml" />
+      <file name="PersonDetails" ext=".txt" />
+      <file name="XMLPersonCreator" ext=".cs" />
+    </dir>
+    <dir path="../../../../XMLProcessing\08AlbumCreator">
+      <dir path="../../../../XMLProcessing\08AlbumCreator\bin">
+        <dir path="../../../../XMLProcessing\08AlbumCreator\bin\Debug">
+          <file name="08AlbumCreator" ext=".exe" />
+          <file name="08AlbumCreator.exe" ext=".config" />
+          <file name="08AlbumCreator" ext=".pdb" />
+          <file name="08AlbumCreator.vshost" ext=".exe" />
+          <file name="08AlbumCreator.vshost.exe" ext=".config" />
+        </dir>
+        <dir path="../../../../XMLProcessing\08AlbumCreator\bin\Release" />
+      </dir>
+      <dir path="../../../../XMLProcessing\08AlbumCreator\obj">
+        <dir path="../../../../XMLProcessing\08AlbumCreator\obj\Debug">
+          <dir path="../../../../XMLProcessing\08AlbumCreator\obj\Debug\TempPE" />
+          <file name="08AlbumCreator.csproj.FileListAbsolute" ext=".txt" />
+          <file name="08AlbumCreator.csprojResolveAssemblyReference" ext=".cache" />
+          <file name="08AlbumCreator" ext=".exe" />
+          <file name="08AlbumCreator" ext=".pdb" />
+          <file name="DesignTimeResolveAssemblyReferencesInput" ext=".cache" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" ext=".cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" ext=".cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" ext=".cs" />
+        </dir>
+      </dir>
+      <dir path="../../../../XMLProcessing\08AlbumCreator\Properties">
+        <file name="AssemblyInfo" ext=".cs" />
+      </dir>
+      <file name="08AlbumCreator" ext=".csproj" />
+      <file name="AlbumCreator" ext=".cs" />
+      <file name="albums" ext=".xml" />
+      <file name="App" ext=".config" />
+    </dir>
+    <dir path="../../../../XMLProcessing\09DirectoryTraverser">
+      <dir path="../../../../XMLProcessing\09DirectoryTraverser\bin">
+        <dir path="../../../../XMLProcessing\09DirectoryTraverser\bin\Debug">
+          <file name="09DirectoryTraverser" ext=".exe" />
+          <file name="09DirectoryTraverser.exe" ext=".config" />
+          <file name="09DirectoryTraverser" ext=".pdb" />
+          <file name="09DirectoryTraverser.vshost" ext=".exe" />
+          <file name="09DirectoryTraverser.vshost.exe" ext=".config" />
+        </dir>
+        <dir path="../../../../XMLProcessing\09DirectoryTraverser\bin\Release" />
+      </dir>
+      <dir path="../../../../XMLProcessing\09DirectoryTraverser\obj">
+        <dir path="../../../../XMLProcessing\09DirectoryTraverser\obj\Debug">
+          <dir path="../../../../XMLProcessing\09DirectoryTraverser\obj\Debug\TempPE" />
+          <file name="09DirectoryTraverser.csproj.FileListAbsolute" ext=".txt" />
+          <file name="09DirectoryTraverser" ext=".exe" />
+          <file name="09DirectoryTraverser" ext=".pdb" />
+          <file name="DesignTimeResolveAssemblyReferencesInput" ext=".cache" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" ext=".cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" ext=".cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" ext=".cs" />
+        </dir>
+      </dir>
+      <dir path="../../../../XMLProcessing\09DirectoryTraverser\Properties">
+        <file name="AssemblyInfo" ext=".cs" />
+      </dir>
+      <file name="09DirectoryTraverser" ext=".csproj" />
+      <file name="App" ext=".config" />
+      <file name="dir" ext=".xml" />
+      <file name="TWTraverser" ext=".cs" />
+    </dir>
+    <dir path="../../../../XMLProcessing\10TraverserXDoc">
+      <dir path="../../../../XMLProcessing\10TraverserXDoc\bin">
+        <dir path="../../../../XMLProcessing\10TraverserXDoc\bin\Debug">
+          <file name="10TraverserXDoc" ext=".exe" />
+          <file name="10TraverserXDoc.exe" ext=".config" />
+          <file name="10TraverserXDoc" ext=".pdb" />
+          <file name="10TraverserXDoc.vshost" ext=".exe" />
+          <file name="10TraverserXDoc.vshost.exe" ext=".config" />
+        </dir>
+        <dir path="../../../../XMLProcessing\10TraverserXDoc\bin\Release" />
+      </dir>
+      <dir path="../../../../XMLProcessing\10TraverserXDoc\obj">
+        <dir path="../../../../XMLProcessing\10TraverserXDoc\obj\Debug">
+          <dir path="../../../../XMLProcessing\10TraverserXDoc\obj\Debug\TempPE" />
+          <file name="10TraverserXDoc.csproj.FileListAbsolute" ext=".txt" />
+          <file name="10TraverserXDoc" ext=".exe" />
+          <file name="10TraverserXDoc" ext=".pdb" />
+          <file name="DesignTimeResolveAssemblyReferencesInput" ext=".cache" />
+          <file name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92" ext=".cs" />
+          <file name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1" ext=".cs" />
+          <file name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3" ext=".cs" />
+        </dir>
+      </dir>
+      <dir path="../../../../XMLProcessing\10TraverserXDoc\Properties">
+        <file name="AssemblyInfo" ext=".cs" />
+      </dir>
+      <file name="10TraverserXDoc" ext=".csproj" />
+      <file name="App" ext=".config" />
+      <file name="Program" ext=".cs" />
+    </dir>
+    <dir path="../../../../XMLProcessing\CatalogHolder">
+      <file name="catalogue" ext=".xml" />
+      <file name="catalogue" ext=".xsd" />
+    </dir>
+    <dir path="../../../../XMLProcessing\packages">
+      <dir path="../../../../XMLProcessing\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0">
+        <dir path="../../../../XMLProcessing\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build">
+          <file name="Microsoft.CodeDom.Providers.DotNetCompilerPlatform" ext=".props" />
+        </dir>
+        <dir path="../../../../XMLProcessing\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\content">
+          <file name="web.config.install" ext=".xdt" />
+          <file name="web.config.uninstall" ext=".xdt" />
+        </dir>
+        <dir path="../../../../XMLProcessing\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib">
+          <dir path="../../../../XMLProcessing\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45">
+            <file name="Microsoft.CodeDom.Providers.DotNetCompilerPlatform" ext=".dll" />
+            <file name="Microsoft.CodeDom.Providers.DotNetCompilerPlatform" ext=".xml" />
+          </dir>
+        </dir>
+        <dir path="../../../../XMLProcessing\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\tools">
+          <file name="init" ext=".ps1" />
+          <file name="uninstall" ext=".ps1" />
+        </dir>
+        <file name="Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0" ext=".nupkg" />
+      </dir>
+      <dir path="../../../../XMLProcessing\packages\Microsoft.Net.Compilers.1.0.0">
+        <dir path="../../../../XMLProcessing\packages\Microsoft.Net.Compilers.1.0.0\build">
+          <file name="Microsoft.Net.Compilers" ext=".props" />
+        </dir>
+        <dir path="../../../../XMLProcessing\packages\Microsoft.Net.Compilers.1.0.0\tools">
+          <file name="csc" ext=".exe" />
+          <file name="Microsoft.Build.Tasks.CodeAnalysis" ext=".dll" />
+          <file name="Microsoft.CodeAnalysis.CSharp" ext=".dll" />
+          <file name="Microsoft.CodeAnalysis" ext=".dll" />
+          <file name="Microsoft.CodeAnalysis.VisualBasic" ext=".dll" />
+          <file name="Microsoft.CSharp.Core" ext=".targets" />
+          <file name="Microsoft.VisualBasic.Core" ext=".targets" />
+          <file name="System.Collections.Immutable" ext=".dll" />
+          <file name="System.Reflection.Metadata" ext=".dll" />
+          <file name="vbc" ext=".exe" />
+          <file name="VBCSCompiler" ext=".exe" />
+          <file name="VBCSCompiler.exe" ext=".config" />
+        </dir>
+        <file name="Microsoft.Net.Compilers.1.0.0" ext=".nupkg" />
+        <file name="ThirdPartyNotices" ext=".rtf" />
+      </dir>
+    </dir>
+    <file name="StyleCop" ext=".Cache" />
+    <file name="XMLProcessing" ext=".sln" />
+  </dir>
+</dir>

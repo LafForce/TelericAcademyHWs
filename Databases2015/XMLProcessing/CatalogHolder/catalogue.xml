@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<music>
+    <album>
+    <name>The Expensive Albums</name>
+    <artist>Radioheader</artist>
+    <year>2015</year>
+    <price>137.92</price>
+    <producer>The Coder</producer>
+
+    <songList>
+      <song>
+        <title>Never Give Up the Code</title>
+        <length>BigInt.MaxValue</length>
+      </song>
+      <song>
+        <title>FBGM</title>
+        <length>100</length>
+      </song>
+    </songList>
+
+    <description>
+      <link>http://en.wikipedia.org/wiki/The_King_of_Limbs</link>
+      The King of Limbs is the eighth studio album by English rock band Radiohead, produced by Nigel Godrich. It was self-released on 18 February 2011 as a download in MP3 and WAV formats, followed by physical CD and 12" vinyl releases on 28 March, a wider digital release via AWAL, and a special "newspaper" edition on 9 May 2011. The physical editions were released through the band's Ticker Tape imprint on XL in the United Kingdom, TBD in the United States, and Hostess Entertainment in Japan.
+    </description>
+  </album>
+    
+  <album>
+    <name>The King of Limbs</name>
+    <artist>Radiohead</artist>
+    <year>2011</year>
+    <price>7.92</price>
+    <producer>Nigel Godrich</producer>
+
+    <songList>
+      <song>
+        <title>Bloom</title>
+        <length>5:15</length>
+      </song>
+      <song>
+        <title>Morning Mr Magpie</title>
+        <length>4:41</length>
+      </song>
+      <song>
+        <title>Little by Little</title>
+        <length>4:27</length>
+      </song>
+      <song>
+        <title>Feral</title>
+        <length>3:13</length>
+      </song>
+      <song>
+        <title>Lotus Flower</title>
+        <length>5:01</length>
+      </song>
+      <song>
+        <title>Codex</title>
+        <length>4:47</length>
+      </song>
+      <song>
+        <title>Give Up the Ghost</title>
+        <length>4:50</length>
+      </song>
+      <song>
+        <title>Separator</title>
+        <length>5:20</length>
+      </song>
+    </songList>
+
+    <description>
+      I basically needed an expensive album so I made this one up! So I am the producer...
+    </description>
+  </album>
+
+  <album>
+    <name>OK Computer</name>
+    <artist>Radiohead</artist>
+    <year>1997</year>
+    <price>14.25</price>
+    <producer>Nigel Godrich</producer>
+
+    <songList>
+      <song>
+        <title>Airbag</title>
+        <length>4:44</length>
+      </song>
+      <song>
+        <title>Paranoid Android</title>
+        <length>6.23</length>
+      </song>
+      <song>
+        <title>Subterranean Homesick Alien</title>
+        <length>4:27</length>
+      </song>
+      <song>
+        <title>Exit Music (For a Film)</title>
+        <length>4:24</length>
+      </song>
+      <song>
+        <title>Let Down</title>
+        <length>4:59</length>
+      </song>
+      <song>
+        <title>Karma Police</title>
+        <length>4:29</length>
+      </song>
+      <song>
+        <title>Fitter Happier</title>
+        <length>1:57</length>
+      </song>
+      <song>
+        <title>Electioneering</title>
+        <length>3:50</length>
+      </song>
+      <song>
+        <title>Climbing Up the Walls</title>
+        <length>4:45</length>
+      </song>
+      <song>
+        <title>No Surprises</title>
+        <length>3:48</length>
+      </song>
+      <song>
+        <title>Lucky</title>
+        <length>4:19</length>
+      </song>
+      <song>
+        <title>The tourist</title>
+        <length>5:24</length>
+      </song>
+    </songList>
+
+    <description>
+      <link>http://en.wikipedia.org/wiki/OK_Computer</link>
+      OK Computer is the third studio album by the English alternative rock band Radiohead, released on 16 June 1997 on Parlophone in the United Kingdom and 1 July 1997 by Capitol Records in the United States. It marks a deliberate attempt by the band to move away from the introspective guitar-oriented sound of their previous album The Bends. Its layered sound and wide range of influences set it apart from many of the Britpop and alternative rock bands popular at the time and laid the groundwork for Radiohead's later, more experimental work.
+    </description>
+  </album>
+
+  <album>
+    <name>Dummy</name>
+    <artist>Portishead</artist>
+    <year>1996</year>
+    <price>10.31</price>
+    <producer>Portishead</producer>
+
+    <songList>
+      <song>
+        <title>Mysterons</title>
+        <length>5:02</length>
+      </song>
+      <song>
+        <title>Sour Times</title>
+        <length>4:11</length>
+      </song>
+      <song>
+        <title>Straners</title>
+        <length>3:55</length>
+      </song>
+      <song>
+        <title>It Could Be Sweet</title>
+        <length>4:16</length>
+      </song>
+      <song>
+        <title>Wandering star</title>
+        <length>4:51</length>
+      </song>
+      <song>
+        <title>It's a Fire</title>
+        <length>3:49</length>
+      </song>
+      <song>
+        <title>Numb</title>
+        <length>3:54</length>
+      </song>
+      <song>
+        <title>Roads</title>
+        <length>5:02</length>
+      </song>
+      <song>
+        <title>Pedestal</title>
+        <length>3:39</length>
+      </song>
+      <song>
+        <title>Biscuit</title>
+        <length>5:01</length>
+      </song>
+      <song>
+        <title>Glory Box</title>
+        <length>5:06</length>
+      </song>
+    </songList>
+
+    <description>
+      <link>http://en.wikipedia.org/wiki/Dummy_%28album%29</link>
+      Dummy is the debut album of the Bristol-based group Portishead. Released in August 22, 1994 on Go! Discs, the album earned critical acclaim, winning the 1995 Mercury Music Prize. It is often credited with popularizing the trip-hop genre and is frequently cited in lists of the best albums of the 1990s. Although it achieved modest chart success overseas, it peaked at #2 on the UK Album Chart and saw two of its three singles reach #13. The album was certified gold in 1997 and has sold two million copies in Europe. As of September 2011, the album was certified double-platinum in the United Kingdom and has sold as of September 2011 825,000 copies.
+    </description>
+  </album>
+
+  <album>
+    <name>Third</name>
+    <artist>Portishead</artist>
+    <year>2008</year>
+    <price >10.99</price>
+    <producer>Portishead</producer>
+
+    <songList>
+      <song>
+        <title>Silence</title>
+        <length>4:58</length>
+      </song>
+      <song>
+        <title>Hunter</title>
+        <length>3:57</length>
+      </song>
+      <song>
+        <title>Nylon Smile</title>
+        <length>3:16</length>
+      </song>
+      <song>
+        <title>The Rip</title>
+        <length>4:29</length>
+      </song>
+      <song>
+        <title>Plastic</title>
+        <length>3:27</length>
+      </song>
+      <song>
+        <title>We Carry On</title>
+        <length>6:27</length>
+      </song>
+      <song>
+        <title>Deep Water</title>
+        <length>1:31</length>
+      </song>
+      <song>
+        <title>Machine Gun</title>
+        <length>4:43</length>
+      </song>
+      <song>
+        <title>Small</title>
+        <length>6:45</length>
+      </song>
+      <song>
+        <title>Magic Gun</title>
+        <length>4:43</length>
+      </song>
+      <song>
+        <title>Threads</title>
+        <length>5:45</length>
+      </song>
+    </songList>
+
+    <description>
+      <link>http://en.wikipedia.org/wiki/Third_%28Portishead_album%29</link>
+      Third is the third studio album by English musical group Portishead, released on 27 April 2008, on Island Records in the United Kingdom, two days after on Mercury Records in the United States, and on 30 April 2008 on Universal Music Japan in Japan. It is their first release in 10 years, and their first studio album in eleven years. Third entered the UK Album Chart at #2, and became the band's first-ever American Top 10 album on the Billboard 200, reaching #7 in its entry week.
+    </description>
+  </album>
+</music>

@@ -1,8 +1,0 @@
-C:\Users\LaForce\Documents\GitHub\TelericAcademyHWs\Databases2015\XMLProcessing\MusicCatalog\bin\Debug\MusicCatalog.exe.config
-C:\Users\LaForce\Documents\GitHub\TelericAcademyHWs\Databases2015\XMLProcessing\MusicCatalog\bin\Debug\MusicCatalog.exe
-C:\Users\LaForce\Documents\GitHub\TelericAcademyHWs\Databases2015\XMLProcessing\MusicCatalog\bin\Debug\MusicCatalog.pdb
-C:\Users\LaForce\Documents\GitHub\TelericAcademyHWs\Databases2015\XMLProcessing\MusicCatalog\bin\Debug\MusicCatalog.exe.CodeAnalysisLog.xml
-C:\Users\LaForce\Documents\GitHub\TelericAcademyHWs\Databases2015\XMLProcessing\MusicCatalog\bin\Debug\MusicCatalog.exe.lastcodeanalysissucceeded
-C:\Users\LaForce\Documents\GitHub\TelericAcademyHWs\Databases2015\XMLProcessing\MusicCatalog\obj\Debug\MusicCatalog.csprojResolveAssemblyReference.cache
-C:\Users\LaForce\Documents\GitHub\TelericAcademyHWs\Databases2015\XMLProcessing\MusicCatalog\obj\Debug\MusicCatalog.exe
-C:\Users\LaForce\Documents\GitHub\TelericAcademyHWs\Databases2015\XMLProcessing\MusicCatalog\obj\Debug\MusicCatalog.pdb
