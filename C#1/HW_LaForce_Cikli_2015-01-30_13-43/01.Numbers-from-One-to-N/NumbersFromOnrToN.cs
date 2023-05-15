@@ -1,4 +1,3 @@
-
 ﻿using System; 
 
 class NumbersFromOnrToN
@@ -40,4 +39,4 @@ Solution:
     }
     
 }
-
+ 
