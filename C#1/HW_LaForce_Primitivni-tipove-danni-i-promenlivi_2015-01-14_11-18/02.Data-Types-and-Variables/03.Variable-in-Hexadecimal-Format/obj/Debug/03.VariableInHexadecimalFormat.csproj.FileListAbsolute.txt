@@ -1,4 +1,3 @@
-<<<<<<< .mine
 D:\Users\LaForce.OhBoy\Documents\Visual Studio 2013\Projects\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\bin\Debug\03.Variable-in-Hexadecimal-Format.exe.config
 D:\Users\LaForce.OhBoy\Documents\Visual Studio 2013\Projects\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\obj\Debug\03.Variable-in-Hexadecimal-Format.exe
 D:\Users\LaForce.OhBoy\Documents\Visual Studio 2013\Projects\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\obj\Debug\03.Variable-in-Hexadecimal-Format.pdb
@@ -9,16 +8,3 @@ C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tip
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\bin\Debug\03.Variable-in-Hexadecimal-Format.pdb
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\obj\Debug\03.Variable-in-Hexadecimal-Format.exe
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\obj\Debug\03.Variable-in-Hexadecimal-Format.pdb
-||||||| .r0
-=======
-D:\Users\LaForce.OhBoy\Documents\Visual Studio 2013\Projects\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\bin\Debug\03.Variable-in-Hexadecimal-Format.exe.config
-D:\Users\LaForce.OhBoy\Documents\Visual Studio 2013\Projects\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\obj\Debug\03.Variable-in-Hexadecimal-Format.exe
-D:\Users\LaForce.OhBoy\Documents\Visual Studio 2013\Projects\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\obj\Debug\03.Variable-in-Hexadecimal-Format.pdb
-D:\Users\LaForce.OhBoy\Documents\Visual Studio 2013\Projects\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\bin\Debug\03.Variable-in-Hexadecimal-Format.exe
-D:\Users\LaForce.OhBoy\Documents\Visual Studio 2013\Projects\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\bin\Debug\03.Variable-in-Hexadecimal-Format.pdb
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\bin\Debug\03.Variable-in-Hexadecimal-Format.exe.config
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\bin\Debug\03.Variable-in-Hexadecimal-Format.exe
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\bin\Debug\03.Variable-in-Hexadecimal-Format.pdb
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\obj\Debug\03.Variable-in-Hexadecimal-Format.exe
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\03.Variable-in-Hexadecimal-Format\obj\Debug\03.Variable-in-Hexadecimal-Format.pdb
->>>>>>> .r6

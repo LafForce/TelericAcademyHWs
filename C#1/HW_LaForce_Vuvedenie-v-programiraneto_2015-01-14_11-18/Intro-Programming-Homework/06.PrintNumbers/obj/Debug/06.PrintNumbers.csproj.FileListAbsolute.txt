@@ -1,4 +1,3 @@
-<<<<<<< .mine
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\04.PrintNumbers.exe.config
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\04.PrintNumbers.exe
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\04.PrintNumbers.pdb
@@ -12,19 +11,3 @@ C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-pr
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\06.PrintNumbers\bin\Debug\04.PrintNumbers.pdb
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\06.PrintNumbers\obj\Debug\04.PrintNumbers.exe
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\06.PrintNumbers\obj\Debug\04.PrintNumbers.pdb
-||||||| .r0
-=======
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\04.PrintNumbers.exe.config
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\04.PrintNumbers.exe
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.PrintNumbers\bin\Debug\04.PrintNumbers.pdb
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.PrintNumbers\obj\Debug\04.PrintNumbers.exe
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.PrintNumbers\obj\Debug\04.PrintNumbers.pdb
-D:\Users\LaForce.OhBoy\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\06.PrintNumbers\bin\Debug\04.PrintNumbers.exe.config
-D:\Users\LaForce.OhBoy\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\06.PrintNumbers\obj\Debug\04.PrintNumbers.exe
-D:\Users\LaForce.OhBoy\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\06.PrintNumbers\obj\Debug\04.PrintNumbers.pdb
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\06.PrintNumbers\bin\Debug\04.PrintNumbers.exe.config
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\06.PrintNumbers\bin\Debug\04.PrintNumbers.exe
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\06.PrintNumbers\bin\Debug\04.PrintNumbers.pdb
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\06.PrintNumbers\obj\Debug\04.PrintNumbers.exe
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\06.PrintNumbers\obj\Debug\04.PrintNumbers.pdb
->>>>>>> .r6

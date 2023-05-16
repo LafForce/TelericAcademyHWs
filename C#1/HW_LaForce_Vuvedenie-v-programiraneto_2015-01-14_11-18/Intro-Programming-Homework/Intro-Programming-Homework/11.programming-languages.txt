@@ -1,4 +1,3 @@
-<<<<<<< .mine
 Problem 11. Programming Languages
 
     Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the most popular programming languages. How similar are they to C#? How do they differ from C#?
@@ -33,40 +32,3 @@ this is the rating for year 2015.
 4. PHP - (Hypertext Processor) is a free, server-side scripting language designed for dynamic websites and app development. It can be directly embedded into an HTML source document rather than an external file, which has made it a popular programming language for web developers. PHP powers more than 200 million websites, including Wordpress, Digg and Facebook. PHP and C# share some similarities in syntax but are fundamentally different.
 
 5. JavaScript is a client and server-side scripting language developed by Netscape that derives much of its syntax from C. It can be used across multiple web browsers and is considered essential for developing interactive or animated web functions. It is also used in game development and writing desktop applications. JavaScript interpreters are embedded in Google's Chrome extensions, Apple's Safari extensions, Adobe Acrobat and Reader, and Adobe's Creative Suite. It is a script language so it has fundamental differences with C#.
-||||||| .r0
-=======
-Problem 11. Programming Languages
-
-    Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the most popular programming languages. How similar are they to C#? How do they differ from C#?
-Write in a text file called “programming-languages.txt” at least five languages along with 2-3 sentences about each of them. Use English.
-
-Solution 11.
---------------
-
-According to http://langpop.com :
-
-Rating	Programming Language 
-		
-1	Java			
-2	C			
-3	C++	
-4	PHP			
-5	JavaScript		
-6	Python			
-7	SQL
-8	C#			
-9	Perl			
-10	Ruby			
-
-this is the rating for year 2015.
-
-1. Java is a class-based, object-oriented programming language developed by Sun Microsystems in the 1990s. It's one of the most in-demand programming languages, a standard for enterprise software, web-based content, games and mobile apps, as well as the Android operating system. Java is designed to work across multiple software platforms. It is very close to C# as structure and syntax.
-
-2. C is an ancient low-level language. It is a general-purpose, imperative programming language which providing the building blocks for other popular languages, such as C#, Java, JavaScript and Python. It is the most widely used and the oldest one. Close to C# as the T-Rex to the hen - genetically connected but ages apart in evolution sense.
-
-3. C++ is an intermediate-level language with object-oriented programming features, originally designed to enhance the C language. C++ powers major software like Firefox, Winamp and Adobe programs. It's used to develop systems software, application software, high-performance server and client applications and video games. Somewhat closer to C# than C but still different in many ways.
-
-4. PHP - (Hypertext Processor) is a free, server-side scripting language designed for dynamic websites and app development. It can be directly embedded into an HTML source document rather than an external file, which has made it a popular programming language for web developers. PHP powers more than 200 million websites, including Wordpress, Digg and Facebook. PHP and C# share some similarities in syntax but are fundamentally different.
-
-5. JavaScript is a client and server-side scripting language developed by Netscape that derives much of its syntax from C. It can be used across multiple web browsers and is considered essential for developing interactive or animated web functions. It is also used in game development and writing desktop applications. JavaScript interpreters are embedded in Google's Chrome extensions, Apple's Safari extensions, Adobe Acrobat and Reader, and Adobe's Creative Suite. It is a script language so it has fundamental differences with C#.
->>>>>>> .r6

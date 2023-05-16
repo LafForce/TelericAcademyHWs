@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\16.decimalToHex\bin\Debug\16.decimalToHex.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\16.decimalToHex\bin\Debug\16.decimalToHex.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\16.decimalToHex\bin\Debug\16.decimalToHex.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\16.decimalToHex\obj\Debug\16.decimalToHex.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\16.decimalToHex\obj\Debug\16.decimalToHex.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\16.decimalToHex\obj\Debug\16.decimalToHex.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\16.decimalToHex\obj\Debug\16.decimalToHex.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\16.decimalToHex\obj\Debug\16.decimalToHex.pdb

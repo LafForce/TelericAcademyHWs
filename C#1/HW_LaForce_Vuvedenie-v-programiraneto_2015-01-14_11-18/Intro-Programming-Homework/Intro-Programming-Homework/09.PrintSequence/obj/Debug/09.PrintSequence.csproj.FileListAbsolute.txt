@@ -1,14 +1,5 @@
-<<<<<<< .mine
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.exe.config
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.exe
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.pdb
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\09.PrintSequence\obj\Debug\09.PrintSequence.exe
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\09.PrintSequence\obj\Debug\09.PrintSequence.pdb
-||||||| .r0
-=======
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.exe.config
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.exe
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\09.PrintSequence\bin\Debug\09.PrintSequence.pdb
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\09.PrintSequence\obj\Debug\09.PrintSequence.exe
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\09.PrintSequence\obj\Debug\09.PrintSequence.pdb
->>>>>>> .r6

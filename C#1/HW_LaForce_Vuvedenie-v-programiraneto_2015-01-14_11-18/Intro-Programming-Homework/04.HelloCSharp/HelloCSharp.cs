@@ -1,4 +1,3 @@
-<<<<<<< .mine
 ﻿using System;
 
 //### Problem 4.	Hello World
@@ -15,22 +14,3 @@ namespace HelloWorld
         }
     }
 }
-||||||| .r0
-=======
-﻿using System;
-
-//### Problem 4.	Hello World
-//*	Create, compile and run a `“Hello C#”` console application.
-//*	Ensure you have named the application well (e.g. “”HelloCSharp”).
-
-namespace HelloWorld
-{
-    class HelloCSharp
-    {
-        static void Main()
-        {
-            Console.WriteLine("Hello C#");
-        }
-    }
-}
->>>>>>> .r6

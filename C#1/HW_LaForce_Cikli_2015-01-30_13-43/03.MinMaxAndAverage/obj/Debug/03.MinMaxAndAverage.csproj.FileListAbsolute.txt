@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\03.MinMaxAndAverage\bin\Debug\03.MinMaxAndAverage.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\03.MinMaxAndAverage\bin\Debug\03.MinMaxAndAverage.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\03.MinMaxAndAverage\bin\Debug\03.MinMaxAndAverage.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\03.MinMaxAndAverage\obj\Debug\03.MinMaxAndAverage.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\03.MinMaxAndAverage\obj\Debug\03.MinMaxAndAverage.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\03.MinMaxAndAverage\obj\Debug\03.MinMaxAndAverage.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\03.MinMaxAndAverage\obj\Debug\03.MinMaxAndAverage.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\03.MinMaxAndAverage\obj\Debug\03.MinMaxAndAverage.pdb

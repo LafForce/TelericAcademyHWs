@@ -1,4 +1,3 @@
-<<<<<<< .mine
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe
 D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.pdb
@@ -11,18 +10,3 @@ C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-pr
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.csprojResolveAssemblyReference.cache
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.exe
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.pdb
-||||||| .r0
-=======
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.pdb
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.exe
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.pdb
-D:\Users\LaForce.OhBoy\documents\visual studio 2013\Projects\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.csprojResolveAssemblyReference.cache
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\04.HelloCSharp\bin\Debug\04.HelloCSharp.pdb
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.csprojResolveAssemblyReference.cache
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.exe
-C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\04.HelloCSharp\obj\Debug\04.HelloCSharp.pdb
->>>>>>> .r6

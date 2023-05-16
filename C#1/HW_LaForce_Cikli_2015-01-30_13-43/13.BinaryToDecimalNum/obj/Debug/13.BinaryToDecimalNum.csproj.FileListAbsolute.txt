@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\13.BinaryToDecimalNum\bin\Debug\13.BinaryToDecimalNum.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\13.BinaryToDecimalNum\bin\Debug\13.BinaryToDecimalNum.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\13.BinaryToDecimalNum\bin\Debug\13.BinaryToDecimalNum.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\13.BinaryToDecimalNum\obj\Debug\13.BinaryToDecimalNum.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\13.BinaryToDecimalNum\obj\Debug\13.BinaryToDecimalNum.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\13.BinaryToDecimalNum\obj\Debug\13.BinaryToDecimalNum.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\13.BinaryToDecimalNum\obj\Debug\13.BinaryToDecimalNum.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\13.BinaryToDecimalNum\obj\Debug\13.BinaryToDecimalNum.pdb

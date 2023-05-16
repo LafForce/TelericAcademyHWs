@@ -1,0 +1,290 @@
+﻿<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+ <html xmlns:msxsl="urn:schemas-microsoft-com:xslt"><head><meta content="en-us" http-equiv="Content-Language" /><meta content="text/html; charset=utf-16" http-equiv="Content-Type" /><title _locID="ConversionReport0">
+          Migration Report
+        </title><style> 
+                    /* Body style, for the entire document */
+                    body
+                    {
+                        background: #F3F3F4;
+                        color: #1E1E1F;
+                        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+                        padding: 0;
+                        margin: 0;
+                    }
+
+                    /* Header1 style, used for the main title */
+                    h1
+                    {
+                        padding: 10px 0px 10px 10px;
+                        font-size: 21pt;
+                        background-color: #E2E2E2;
+                        border-bottom: 1px #C1C1C2 solid; 
+                        color: #201F20;
+                        margin: 0;
+                        font-weight: normal;
+                    }
+
+                    /* Header2 style, used for "Overview" and other sections */
+                    h2
+                    {
+                        font-size: 18pt;
+                        font-weight: normal;
+                        padding: 15px 0 5px 0;
+                        margin: 0;
+                    }
+
+                    /* Header3 style, used for sub-sections, such as project name */
+                    h3
+                    {
+                        font-weight: normal;
+                        font-size: 15pt;
+                        margin: 0;
+                        padding: 15px 0 5px 0;
+                        background-color: transparent;
+                    }
+
+                    /* Color all hyperlinks one color */
+                    a
+                    {
+                        color: #1382CE;
+                    }
+
+                    /* Table styles */ 
+                    table
+                    {
+                        border-spacing: 0 0;
+                        border-collapse: collapse;
+                        font-size: 10pt;
+                    }
+
+                    table th
+                    {
+                        background: #E7E7E8;
+                        text-align: left;
+                        text-decoration: none;
+                        font-weight: normal;
+                        padding: 3px 6px 3px 6px;
+                    }
+
+                    table td
+                    {
+                        vertical-align: top;
+                        padding: 3px 6px 5px 5px;
+                        margin: 0px;
+                        border: 1px solid #E7E7E8;
+                        background: #F7F7F8;
+                    }
+
+                    /* Local link is a style for hyperlinks that link to file:/// content, there are lots so color them as 'normal' text until the user mouse overs */
+                    .localLink
+                    {
+                        color: #1E1E1F;
+                        background: #EEEEED;
+                        text-decoration: none;
+                    }
+
+                    .localLink:hover
+                    {
+                        color: #1382CE;
+                        background: #FFFF99;
+                        text-decoration: none;
+                    }
+
+                    /* Center text, used in the over views cells that contain message level counts */ 
+                    .textCentered
+                    {
+                        text-align: center;
+                    }
+
+                    /* The message cells in message tables should take up all avaliable space */
+                    .messageCell
+                    {
+                        width: 100%;
+                    }
+
+                    /* Padding around the content after the h1 */ 
+                    #content 
+                    {
+	                    padding: 0px 12px 12px 12px; 
+                    }
+
+                    /* The overview table expands to width, with a max width of 97% */ 
+                    #overview table
+                    {
+                        width: auto;
+                        max-width: 75%; 
+                    }
+
+                    /* The messages tables are always 97% width */
+                    #messages table
+                    {
+                        width: 97%;
+                    }
+
+                    /* All Icons */
+                    .IconSuccessEncoded, .IconInfoEncoded, .IconWarningEncoded, .IconErrorEncoded
+                    {
+                        min-width:18px;
+                        min-height:18px; 
+                        background-repeat:no-repeat;
+                        background-position:center;
+                    }
+
+                    /* Success icon encoded */
+                    .IconSuccessEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconSuccess#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABcElEQVR4Xq2TsUsCURzHv15g8ZJcBWlyiYYgCIWcb9DFRRwMW5TA2c0/QEFwFkxxUQdxVlBwCYWOi6IhWgQhBLHJUCkhLr/BW8S7gvrAg+N+v8/v+x68Z8MGy+XSCyABQAXgBgHGALoASkIIDWSLeLBetdHryMjd5IxQPWT4rn1c/P7+xxp72Cs9m5SZ0Bq2vPnbPFafK2zDvmNHypdC0BPkLlQhxJsCAhQoZwdZU5mwxh720qGo8MzTxTTKZDPCx2HoVzp6lz0Q9tKhyx0kGs8Ny+TkWRKk8lCROwEduhyg9l/6lunOPSfmH3NUH6uQ0KHLAe7JYvJjevm+DAMGJHToKtigE+vwvIidxLamb8IBY9e+C5LiXREkfho3TSd06HJA13/oh6T51MTsfQbHrsMynQ5dDihFjiK8JJAU9AKIWTp76dCVN7HWHrajmUEGvyF9nkbAE6gLIS7kTUyuf2gscLoJrElZo/Mvj+nPz/kLTmfnEwP3tB0AAAAASUVORK5CYII=);
+                    }
+
+                    /* Information icon encoded */
+                    .IconInfoEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconInformation#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHElEQVR4Xs2TsUoDQRRF7wwoziokjZUKadInhdhukR9YP8DMX1hYW+QvdsXa/QHBbcXC7W0CamWTQnclFutceIQJwwaWNLlwm5k5d94M76mmaeCrrmsLYOocY12FcxZFUeozCqKqqgYA8uevv1H6VuPxcwlfk5N92KHBxfFeCSAxxswlYAW/Xr989x/mv9gkhtyMDhcAxgzRsp7flj8B/HF1RsMXq+NZMkopaHe7lbKxQUEIGbKsYNoGn969060hZBkQex/W8oRQwsQaW2o3Ago2SVcJUzAgY3N0lTCZZm+zPS8HB51gMmS1DEYyOz9acKO1D8JWTlafKIMxdhvlfdyT94Vv5h7P8Ky7nQzACmhvKq3zk3PjW9asz9D/1oigecsioooAAAAASUVORK5CYII=);
+                    }
+
+                    /* Warning icon encoded */
+                    .IconWarningEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconWarning#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAx0lEQVR4XpWSMQ7CMAxFf4xAyBMLCxMrO8dhaBcuwdCJS3RJBw7SA/QGTCxdWJgiQYWKXJWKIXHIlyw5lqr34tQgEOdcBsCOx5yZK3hCCKdYXneQkh4pEfqzLfu+wVDSyyzFoJjfz9NB+pAF+eizx2Vruts0k15mPgvS6GYvpVtQhB61IB/dk6AF6fS4Ben0uIX5odtFe8Q/eW1KvFeH4e8khT6+gm5B+t3juyDt7n0jpe+CANTd+oTUjN/U3yVaABnSUjFz/gFq44JaVSCXeQAAAABJRU5ErkJggg==);
+                    }
+
+                    /* Error icon encoded */
+                    .IconErrorEncoded
+                    {
+                        /* Note: Do not delete the comment below. It is used to verify the correctness of the encoded image resource below before the product is released */
+                        /* [---XsltValidateInternal-Base64EncodedImage:IconError#Begin#background-image: url(data:image/png;base64,#Separator#);#End#] */
+                        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABQElEQVR4XqWTvUoEQRCE6wYPZUA80AfwAQz23uCMjA7MDRQEIzPBVEyNTQUFIw00vcQTTMzuAh/AxEQQT8HF/3G/oGGnEUGuoNnd6qoZuqltyKEsyzVJq5I6rnUp6SjGeGhESikzzlc1eL7opfuVbrqbU1Zw9NCgtQMaZpY0eNnaaL2fHusvTK5vKu7sjSS1Y4y3QUA6K3e3Mau5UFDyMP7tYF9o8cAHZv68vipoIJg971PZIZ5HiwdvYGGvFVFHmGmZ2MxwmQYPXubPl9Up0tfoMQGetXd6mRbvhBw+boZ6WF7Mbv1+GsHRk0fQmPAH1GfmZirbCfDJ61tw3Px8/8pZsPAG4jlVhcPgZ7adwNWBB68lkRQWFiTgFlbnLY3DGGM7izIJIyT/jjIvEJw6fdJTc6krDzh6aMwMP9bvDH4ADSsa9uSWVJkAAAAASUVORK5CYII=);
+                    }
+                 </style><script type="text/javascript" language="javascript"> 
+          
+            // Startup 
+            // Hook up the the loaded event for the document/window, to linkify the document content
+            var startupFunction = function() { linkifyElement("messages"); };
+            
+            if(window.attachEvent)
+            {
+              window.attachEvent('onload', startupFunction);
+            }
+            else if (window.addEventListener) 
+            {
+              window.addEventListener('load', startupFunction, false);
+            }
+            else 
+            {
+              document.addEventListener('load', startupFunction, false);
+            } 
+            
+            // Toggles the visibility of table rows with the specified name 
+            function toggleTableRowsByName(name)
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  if(!!currentName && currentName.indexOf(name) == 0)
+                  {
+                      var isVisible = allRows[i].style.display == ''; 
+                      isVisible ? allRows[i].style.display = 'none' : allRows[i].style.display = '';
+                  }
+               }
+            }
+            
+            function scrollToFirstVisibleRow(name) 
+            {
+               var allRows = document.getElementsByTagName('tr');
+               for (i=0; i < allRows.length; i++)
+               {
+                  var currentName = allRows[i].getAttribute('name');
+                  var isVisible = allRows[i].style.display == ''; 
+                  if(!!currentName && currentName.indexOf(name) == 0 && isVisible)
+                  {
+                     allRows[i].scrollIntoView(true); 
+                     return true; 
+                  }
+               }
+               
+               return false;
+            }
+            
+            // Linkifies the specified text content, replaces candidate links with html links 
+            function linkify(text)
+            {
+                 if(!text || 0 === text.length)
+                 {
+                     return text; 
+                 }
+
+                 // Find http, https and ftp links and replace them with hyper links 
+                 var urlLink = /(http|https|ftp)\:\/\/[a-zA-Z0-9\-\.]+(:[a-zA-Z0-9]*)?\/?([a-zA-Z0-9\-\._\?\,\/\\\+&%\$#\=~;\{\}])*/gi;
+                 
+                 return text.replace(urlLink, '<a href="$&">$&</a>') ;
+            }
+            
+            // Linkifies the specified element by ID
+            function linkifyElement(id)
+            {
+                var element = document.getElementById(id);
+                if(!!element)
+                {
+                  element.innerHTML = linkify(element.innerHTML); 
+                }
+            }
+            
+            function ToggleMessageVisibility(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              toggleTableRowsByName("MessageRowClass" + projectName);
+              toggleTableRowsByName('MessageRowHeaderShow' + projectName);
+              toggleTableRowsByName('MessageRowHeaderHide' + projectName); 
+            }
+            
+            function ScrollToFirstVisibleMessage(projectName)
+            {
+              if(!projectName || 0 === projectName.length)
+              {
+                return; 
+              }
+              
+              // First try the 'Show messages' row
+              if(!scrollToFirstVisibleRow('MessageRowHeaderShow' + projectName))
+              {
+                // Failed to find a visible row for 'Show messages', try an actual message row 
+                scrollToFirstVisibleRow('MessageRowClass' + projectName); 
+              }
+            }
+           </script></head><body><h1 _locID="ConversionReport">
+          Migration Report - </h1><div id="content"><h2 _locID="OverviewTitle">Overview</h2><div id="overview"><table><tr><th></th><th _locID="ProjectTableHeader">Project</th><th _locID="PathTableHeader">Path</th><th _locID="ErrorsTableHeader">Errors</th><th _locID="WarningsTableHeader">Warnings</th><th _locID="MessagesTableHeader">Messages</th></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#02.NumbersNotDevisible">02.NumbersNotDevisible</a></strong></td><td>02.NumbersNotDevisible\02.NumbersNotDevisible.csproj</td><td class="textCentered"><a href="#02.NumbersNotDevisibleError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#03.MinMaxAndAverage">03.MinMaxAndAverage</a></strong></td><td>03.MinMaxAndAverage\03.MinMaxAndAverage.csproj</td><td class="textCentered"><a href="#03.MinMaxAndAverageError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#04.PrintADeckOfCards">04.PrintADeckOfCards</a></strong></td><td>04.PrintADeckOfCards\04.PrintADeckOfCards.csproj</td><td class="textCentered"><a href="#04.PrintADeckOfCardsError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#05.Calculate1">05.Calculate1</a></strong></td><td>05.Calculate1\05.Calculate1.csproj</td><td class="textCentered"><a href="#05.Calculate1Error">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#06.CalculateNK">06.CalculateNK</a></strong></td><td>06.CalculateNK\06.CalculateNK.csproj</td><td class="textCentered"><a href="#06.CalculateNKError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#07.CalculateNKNK">07.CalculateNKNK</a></strong></td><td>07.CalculateNKNK\07.CalculateNKNK.csproj</td><td class="textCentered"><a href="#07.CalculateNKNKError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#08.CatalanNumbers">08.CatalanNumbers</a></strong></td><td>08.CatalanNumbers\08.CatalanNumbers.csproj</td><td class="textCentered"><a href="#08.CatalanNumbersError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#09.MatrixOfNumbers">09.MatrixOfNumbers</a></strong></td><td>09.MatrixOfNumbers\09.MatrixOfNumbers.csproj</td><td class="textCentered"><a href="#09.MatrixOfNumbersError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#10.OddAndEvenProd">10.OddAndEvenProd</a></strong></td><td>10.OddAndEvenProd\10.OddAndEvenProd.csproj</td><td class="textCentered"><a href="#10.OddAndEvenProdError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#11.RandomNumInRange">11.RandomNumInRange</a></strong></td><td>11.RandomNumInRange\11.RandomNumInRange.csproj</td><td class="textCentered"><a href="#11.RandomNumInRangeError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#12.RandomizeNumbers">12.RandomizeNumbers</a></strong></td><td>12.RandomizeNumbers\12.RandomizeNumbers.csproj</td><td class="textCentered"><a href="#12.RandomizeNumbersError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#13.BinaryToDecimalNum">13.BinaryToDecimalNum</a></strong></td><td>13.BinaryToDecimalNum\13.BinaryToDecimalNum.csproj</td><td class="textCentered"><a href="#13.BinaryToDecimalNumError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#14.DecimalToBinary">14.DecimalToBinary</a></strong></td><td>14.DecimalToBinary\14.DecimalToBinary.csproj</td><td class="textCentered"><a href="#14.DecimalToBinaryError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#15.HexToDecimal">15.HexToDecimal</a></strong></td><td>15.HexToDecimal\15.HexToDecimal.csproj</td><td class="textCentered"><a href="#15.HexToDecimalError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#16.decimalToHex">16.decimalToHex</a></strong></td><td>16.decimalToHex\16.decimalToHex.csproj</td><td class="textCentered"><a href="#16.decimalToHexError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#17.CalculataeGCD">17.CalculataeGCD</a></strong></td><td>17.CalculataeGCD\17.CalculataeGCD.csproj</td><td class="textCentered"><a href="#17.CalculataeGCDError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#18.TrailingZeroes">18.TrailingZeroes</a></strong></td><td>18.TrailingZeroes\18.TrailingZeroes.csproj</td><td class="textCentered"><a href="#18.TrailingZeroesError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconErrorEncoded" /><td><strong><a href="#19.SpiralMatrix">19.SpiralMatrix</a></strong></td><td>19.SpiralMatrix\19.SpiralMatrix.csproj</td><td class="textCentered"><a href="#19.SpiralMatrixError">1</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#">0</a></td></tr><tr><td class="IconSuccessEncoded" /><td><strong><a href="#Solution"><span _locID="OverviewSolutionSpan">Solution</span></a></strong></td><td>Loops.sln</td><td class="textCentered"><a>0</a></td><td class="textCentered"><a>0</a></td><td class="textCentered"><a href="#" onclick="ScrollToFirstVisibleMessage('Solution'); return false;">1</a></td></tr></table></div><h2 _locID="SolutionAndProjectsTitle">Solution and projects</h2><div id="messages"><a name="02.NumbersNotDevisible" /><h3>02.NumbersNotDevisible</h3><table><tr id="02.NumbersNotDevisibleHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass02.NumbersNotDevisible"><td class="IconErrorEncoded"><a name="02.NumbersNotDevisibleError" /></td><td class="messageCell"><strong>02.NumbersNotDevisible\02.NumbersNotDevisible.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="03.MinMaxAndAverage" /><h3>03.MinMaxAndAverage</h3><table><tr id="03.MinMaxAndAverageHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass03.MinMaxAndAverage"><td class="IconErrorEncoded"><a name="03.MinMaxAndAverageError" /></td><td class="messageCell"><strong>03.MinMaxAndAverage\03.MinMaxAndAverage.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="04.PrintADeckOfCards" /><h3>04.PrintADeckOfCards</h3><table><tr id="04.PrintADeckOfCardsHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass04.PrintADeckOfCards"><td class="IconErrorEncoded"><a name="04.PrintADeckOfCardsError" /></td><td class="messageCell"><strong>04.PrintADeckOfCards\04.PrintADeckOfCards.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="05.Calculate1" /><h3>05.Calculate1</h3><table><tr id="05.Calculate1HeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass05.Calculate1"><td class="IconErrorEncoded"><a name="05.Calculate1Error" /></td><td class="messageCell"><strong>05.Calculate1\05.Calculate1.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="06.CalculateNK" /><h3>06.CalculateNK</h3><table><tr id="06.CalculateNKHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass06.CalculateNK"><td class="IconErrorEncoded"><a name="06.CalculateNKError" /></td><td class="messageCell"><strong>06.CalculateNK\06.CalculateNK.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="07.CalculateNKNK" /><h3>07.CalculateNKNK</h3><table><tr id="07.CalculateNKNKHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass07.CalculateNKNK"><td class="IconErrorEncoded"><a name="07.CalculateNKNKError" /></td><td class="messageCell"><strong>07.CalculateNKNK\07.CalculateNKNK.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="08.CatalanNumbers" /><h3>08.CatalanNumbers</h3><table><tr id="08.CatalanNumbersHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass08.CatalanNumbers"><td class="IconErrorEncoded"><a name="08.CatalanNumbersError" /></td><td class="messageCell"><strong>08.CatalanNumbers\08.CatalanNumbers.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="09.MatrixOfNumbers" /><h3>09.MatrixOfNumbers</h3><table><tr id="09.MatrixOfNumbersHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass09.MatrixOfNumbers"><td class="IconErrorEncoded"><a name="09.MatrixOfNumbersError" /></td><td class="messageCell"><strong>09.MatrixOfNumbers\09.MatrixOfNumbers.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="10.OddAndEvenProd" /><h3>10.OddAndEvenProd</h3><table><tr id="10.OddAndEvenProdHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass10.OddAndEvenProd"><td class="IconErrorEncoded"><a name="10.OddAndEvenProdError" /></td><td class="messageCell"><strong>10.OddAndEvenProd\10.OddAndEvenProd.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="11.RandomNumInRange" /><h3>11.RandomNumInRange</h3><table><tr id="11.RandomNumInRangeHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass11.RandomNumInRange"><td class="IconErrorEncoded"><a name="11.RandomNumInRangeError" /></td><td class="messageCell"><strong>11.RandomNumInRange\11.RandomNumInRange.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="12.RandomizeNumbers" /><h3>12.RandomizeNumbers</h3><table><tr id="12.RandomizeNumbersHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass12.RandomizeNumbers"><td class="IconErrorEncoded"><a name="12.RandomizeNumbersError" /></td><td class="messageCell"><strong>12.RandomizeNumbers\12.RandomizeNumbers.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="13.BinaryToDecimalNum" /><h3>13.BinaryToDecimalNum</h3><table><tr id="13.BinaryToDecimalNumHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass13.BinaryToDecimalNum"><td class="IconErrorEncoded"><a name="13.BinaryToDecimalNumError" /></td><td class="messageCell"><strong>13.BinaryToDecimalNum\13.BinaryToDecimalNum.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="14.DecimalToBinary" /><h3>14.DecimalToBinary</h3><table><tr id="14.DecimalToBinaryHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass14.DecimalToBinary"><td class="IconErrorEncoded"><a name="14.DecimalToBinaryError" /></td><td class="messageCell"><strong>14.DecimalToBinary\14.DecimalToBinary.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="15.HexToDecimal" /><h3>15.HexToDecimal</h3><table><tr id="15.HexToDecimalHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass15.HexToDecimal"><td class="IconErrorEncoded"><a name="15.HexToDecimalError" /></td><td class="messageCell"><strong>15.HexToDecimal\15.HexToDecimal.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="16.decimalToHex" /><h3>16.decimalToHex</h3><table><tr id="16.decimalToHexHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass16.decimalToHex"><td class="IconErrorEncoded"><a name="16.decimalToHexError" /></td><td class="messageCell"><strong>16.decimalToHex\16.decimalToHex.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="17.CalculataeGCD" /><h3>17.CalculataeGCD</h3><table><tr id="17.CalculataeGCDHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass17.CalculataeGCD"><td class="IconErrorEncoded"><a name="17.CalculataeGCDError" /></td><td class="messageCell"><strong>17.CalculataeGCD\17.CalculataeGCD.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="18.TrailingZeroes" /><h3>18.TrailingZeroes</h3><table><tr id="18.TrailingZeroesHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass18.TrailingZeroes"><td class="IconErrorEncoded"><a name="18.TrailingZeroesError" /></td><td class="messageCell"><strong>18.TrailingZeroes\18.TrailingZeroes.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="19.SpiralMatrix" /><h3>19.SpiralMatrix</h3><table><tr id="19.SpiralMatrixHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="ErrorRowClass19.SpiralMatrix"><td class="IconErrorEncoded"><a name="19.SpiralMatrixError" /></td><td class="messageCell"><strong>19.SpiralMatrix\19.SpiralMatrix.csproj:
+        </strong><span>Error on line 1. Expected 'name' but found '&lt;'.</span></td></tr></table><a name="Solution" /><h3 _locID="ProjectDisplayNameHeader">Solution</h3><table><tr id="SolutionHeaderRow"><th></th><th class="messageCell" _locID="MessageTableHeader">Message</th></tr><tr name="MessageRowHeaderShowSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="ShowAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          Show 1 additional messages
+        </a></td></tr><tr name="MessageRowClassSolution" style="display: none"><td class="IconInfoEncoded"><a name="SolutionMessage" /></td><td class="messageCell"><strong>Loops.sln:
+        </strong><span>The solution file does not require migration.</span></td></tr><tr style="display: none" name="MessageRowHeaderHideSolution"><td class="IconInfoEncoded" /><td class="messageCell"><a _locID="HideAdditionalMessages" href="#" name="SolutionMessage" onclick="ToggleMessageVisibility('Solution'); return false;">
+          Hide 1 additional messages
+        </a></td></tr></table></div></div></body></html>

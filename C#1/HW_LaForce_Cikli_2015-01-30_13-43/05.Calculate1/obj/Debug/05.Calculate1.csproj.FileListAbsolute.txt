@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\05.Calculate1\bin\Debug\05.Calculate1.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\05.Calculate1\bin\Debug\05.Calculate1.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\05.Calculate1\bin\Debug\05.Calculate1.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\05.Calculate1\obj\Debug\05.Calculate1.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\05.Calculate1\obj\Debug\05.Calculate1.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\05.Calculate1\obj\Debug\05.Calculate1.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\05.Calculate1\obj\Debug\05.Calculate1.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\05.Calculate1\obj\Debug\05.Calculate1.pdb

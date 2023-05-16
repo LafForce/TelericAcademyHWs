@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\02.NumbersNotDevisible\bin\Debug\02.NumbersNotDevisible.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\02.NumbersNotDevisible\bin\Debug\02.NumbersNotDevisible.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\02.NumbersNotDevisible\bin\Debug\02.NumbersNotDevisible.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\02.NumbersNotDevisible\obj\Debug\02.NumbersNotDevisible.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\02.NumbersNotDevisible\obj\Debug\02.NumbersNotDevisible.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\02.NumbersNotDevisible\obj\Debug\02.NumbersNotDevisible.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\02.NumbersNotDevisible\obj\Debug\02.NumbersNotDevisible.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\02.NumbersNotDevisible\obj\Debug\02.NumbersNotDevisible.pdb
