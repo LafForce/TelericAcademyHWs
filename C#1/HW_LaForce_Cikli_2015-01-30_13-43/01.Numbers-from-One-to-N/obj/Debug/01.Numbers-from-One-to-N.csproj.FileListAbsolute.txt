@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\01.Numbers-from-One-to-N\obj\Debug\01.Numbers-from-One-to-N.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\01.Numbers-from-One-to-N\obj\Debug\01.Numbers-from-One-to-N.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\01.Numbers-from-One-to-N\obj\Debug\01.Numbers-from-One-to-N.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\01.Numbers-from-One-to-N\bin\Debug\01.Numbers-from-One-to-N.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\01.Numbers-from-One-to-N\bin\Debug\01.Numbers-from-One-to-N.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\01.Numbers-from-One-to-N\bin\Debug\01.Numbers-from-One-to-N.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\01.Numbers-from-One-to-N\obj\Debug\01.Numbers-from-One-to-N.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Cikli_2015-01-30_13-43\01.Numbers-from-One-to-N\obj\Debug\01.Numbers-from-One-to-N.pdb
