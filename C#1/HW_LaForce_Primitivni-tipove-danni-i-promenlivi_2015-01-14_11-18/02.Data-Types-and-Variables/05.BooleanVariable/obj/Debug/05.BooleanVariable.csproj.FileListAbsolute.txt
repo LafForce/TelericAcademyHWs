@@ -10,3 +10,11 @@ C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tip
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\05.BooleanVariable\obj\Debug\05.BooleanVariable.csprojResolveAssemblyReference.cache
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\05.BooleanVariable\obj\Debug\05.BooleanVariable.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\05.BooleanVariable\obj\Debug\05.BooleanVariable.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\05.BooleanVariable\obj\Debug\05.BooleanVariable.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

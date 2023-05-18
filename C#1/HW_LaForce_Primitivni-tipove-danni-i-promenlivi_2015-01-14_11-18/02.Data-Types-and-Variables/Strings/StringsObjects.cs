@@ -18,7 +18,7 @@ namespace Strings
             //declare object and concatenate the two strings:
             object helloWorld = hello + " " + world;
             //cast in a string again:
-            string castIntoStr = helloWorld.ToString();
+            string castIntoStr = (string)helloWorld;
 
             //the check:
             Console.WriteLine(hello + " " + world);

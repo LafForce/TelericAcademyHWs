@@ -20,6 +20,12 @@ namespace DataTypeAndVariables
             int aInt = 4825932;
             byte aByte = 97;
             short aShort = -10000;
+
+            Console.WriteLine("variable named : aUshort of type : " + aUshort.GetType() + " with value {0}", aUshort);
+            Console.WriteLine("variable named : aSbyte of type : " + aSbyte.GetType() + " with value {0}", aSbyte);
+            Console.WriteLine("variable named : aInt of type : " + aInt.GetType() + " with value {0}", aInt);
+            Console.WriteLine("variable named : aByte of type : " + aByte.GetType() + " with value {0}", aByte);
+            Console.WriteLine("variable named : aShort of type : " + aShort.GetType() + " with value {0}", aShort);
         }
     }
 }

@@ -10,3 +10,11 @@ C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tip
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.csprojResolveAssemblyReference.cache
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb

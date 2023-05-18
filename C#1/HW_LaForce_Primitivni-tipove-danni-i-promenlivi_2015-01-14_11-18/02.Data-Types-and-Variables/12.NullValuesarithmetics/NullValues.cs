@@ -21,10 +21,10 @@ namespace _12.NullValuesarithmetics
             Console.WriteLine("double \"d\" has such:!{0}! value.", d);
 
             //Try to add some number or the null literal to these variables and print the result.
-            i = i + 1;
-            d = d + null;
-            Console.WriteLine("after the opperation integer \"i\" has such:!{0}! value.", i);
-            Console.WriteLine("after the opperation double \"d\" has such:!{0}! value.", d);
+           
+           
+            Console.WriteLine("after the opperation integer \"i\" has such:!{0}! value.", (i + 1));
+            Console.WriteLine("after the opperation double \"d\" has such:!{0}! value.", (d + null));
 
         }
     }

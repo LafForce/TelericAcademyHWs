@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 
 //Problem 14.* Print the ASCII Table
@@ -16,16 +17,18 @@ namespace PrintASCIITable
     {
         static void Main()
         {
+            Console.OutputEncoding = Encoding.UTF8;
+
             //To account for the speciality of simbols number 0-32 I add for-loop:
             for (int nuberOfSymbol = 0; nuberOfSymbol < 33; nuberOfSymbol++)
             {
-                Console.Write("Number {0} is \"special\"; ", nuberOfSymbol);
+                Console.Write("Number {0} is \"special\"; \n", nuberOfSymbol);
             }
 
             //for the rest of the symbols with numbers 33 - 255 there is another one:
             for (int nuberOfSymbol = 33; nuberOfSymbol <= 255; nuberOfSymbol++)
             {
-                Console.Write("Number {0} is {1}; ", nuberOfSymbol, (char)nuberOfSymbol);
+                Console.Write("Number {0} is {1}; \n", nuberOfSymbol, (char)nuberOfSymbol);
             }
         }
     }

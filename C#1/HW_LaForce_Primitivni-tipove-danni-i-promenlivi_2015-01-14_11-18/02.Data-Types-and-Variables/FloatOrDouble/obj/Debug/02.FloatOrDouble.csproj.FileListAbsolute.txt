@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\obj\Debug\02.FloatOrDouble.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\obj\Debug\02.FloatOrDouble.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\obj\Debug\02.FloatOrDouble.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Primitivni-tipove-danni-i-promenlivi_2015-01-14_11-18\02.Data-Types-and-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

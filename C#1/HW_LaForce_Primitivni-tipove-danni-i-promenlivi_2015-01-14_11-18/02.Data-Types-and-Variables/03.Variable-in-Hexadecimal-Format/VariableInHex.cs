@@ -15,7 +15,7 @@ namespace VariableInHexadecimalFormat
             //using wincalc I found out 254 in Hex is FE:
             int varHex = 0xFE;
             //Is it?
-            Console.WriteLine(varHex); //Yep!
+            Console.WriteLine(varHex.ToString("D")); //Yep!
         }
     }
 }
