@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\10.Beer-Time\bin\Debug\10.Beer-Time.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\10.Beer-Time\bin\Debug\10.Beer-Time.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\10.Beer-Time\bin\Debug\10.Beer-Time.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\10.Beer-Time\obj\Debug\10.Beer-Time.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\10.Beer-Time\obj\Debug\10.Beer-Time.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\10.Beer-Time\obj\Debug\10.Beer-Time.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\10.Beer-Time\obj\Debug\10.Beer-Time.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\10.Beer-Time\obj\Debug\10.Beer-Time.pdb

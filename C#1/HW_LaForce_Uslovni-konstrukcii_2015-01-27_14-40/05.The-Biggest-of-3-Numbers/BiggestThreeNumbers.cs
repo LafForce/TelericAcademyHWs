@@ -36,17 +36,17 @@ Solution:
             double c = double.Parse(Console.ReadLine());
             Console.WriteLine("You have entered the following numbers: a= {0}, b= {1}, c= {2}", a, b, c);
 
-            if ((a > b) && (b > c))
+            if ((a > b) && (a > c))
             {
                 Console.WriteLine("The number a = {0} is the biggest of the three!", a);
             }
             else if ((b > a) && (b > c))
             {
-                Console.WriteLine("The number a = {0} is the biggest of the three!", b);
+                Console.WriteLine("The number b = {0} is the biggest of the three!", b);
             }
             else
             {
-                Console.WriteLine("The number a = {0} is the biggest of the three!", c);
+                Console.WriteLine("The number c = {0} is the biggest of the three!", c);
             }
 
         }

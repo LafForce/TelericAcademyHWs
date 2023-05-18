@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\12.Zero-Subset\bin\Debug\12.Zero-Subset.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\12.Zero-Subset\bin\Debug\12.Zero-Subset.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\12.Zero-Subset\bin\Debug\12.Zero-Subset.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\12.Zero-Subset\obj\Debug\12.Zero-Subset.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\12.Zero-Subset\obj\Debug\12.Zero-Subset.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\12.Zero-Subset\obj\Debug\12.Zero-Subset.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\12.Zero-Subset\obj\Debug\12.Zero-Subset.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\12.Zero-Subset\obj\Debug\12.Zero-Subset.pdb

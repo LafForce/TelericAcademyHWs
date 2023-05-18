@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\04.NumberComparer\bin\Debug\04.NumberComparer.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\04.NumberComparer\obj\Debug\04.NumberComparer.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\04.NumberComparer\obj\Debug\04.NumberComparer.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\04.NumberComparer\obj\Debug\04.NumberComparer.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\04.NumberComparer\obj\Debug\04.NumberComparer.pdb

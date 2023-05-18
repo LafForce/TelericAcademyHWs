@@ -8,3 +8,11 @@ C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-pr
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\17.DebugABug\obj\Debug\17.DebugABug.pdb
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\17.DebugABug\bin\Debug\17.DebugABug.exe
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\17.DebugABug\bin\Debug\17.DebugABug.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\17.DebugABug\bin\Debug\17.DebugABug.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\17.DebugABug\bin\Debug\17.DebugABug.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\17.DebugABug\bin\Debug\17.DebugABug.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\17.DebugABug\obj\Debug\17.DebugABug.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\17.DebugABug\obj\Debug\17.DebugABug.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\17.DebugABug\obj\Debug\17.DebugABug.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\17.DebugABug\obj\Debug\17.DebugABug.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\17.DebugABug\obj\Debug\17.DebugABug.pdb

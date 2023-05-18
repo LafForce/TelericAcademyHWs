@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\11.Numbers-Dividable-Given-Number\bin\Debug\11.Numbers-Dividable-Given-Number.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\11.Numbers-Dividable-Given-Number\bin\Debug\11.Numbers-Dividable-Given-Number.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\11.Numbers-Dividable-Given-Number\bin\Debug\11.Numbers-Dividable-Given-Number.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\11.Numbers-Dividable-Given-Number\obj\Debug\11.Numbers-Dividable-Given-Number.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\11.Numbers-Dividable-Given-Number\obj\Debug\11.Numbers-Dividable-Given-Number.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\11.Numbers-Dividable-Given-Number\obj\Debug\11.Numbers-Dividable-Given-Number.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\11.Numbers-Dividable-Given-Number\obj\Debug\11.Numbers-Dividable-Given-Number.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\11.Numbers-Dividable-Given-Number\obj\Debug\11.Numbers-Dividable-Given-Number.pdb

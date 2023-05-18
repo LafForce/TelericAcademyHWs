@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\08.Digit-as-Word\bin\Debug\08.Digit-as-Word.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\08.Digit-as-Word\bin\Debug\08.Digit-as-Word.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\08.Digit-as-Word\bin\Debug\08.Digit-as-Word.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\08.Digit-as-Word\obj\Debug\08.Digit-as-Word.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\08.Digit-as-Word\obj\Debug\08.Digit-as-Word.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\08.Digit-as-Word\obj\Debug\08.Digit-as-Word.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\08.Digit-as-Word\obj\Debug\08.Digit-as-Word.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\08.Digit-as-Word\obj\Debug\08.Digit-as-Word.pdb

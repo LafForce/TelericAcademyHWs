@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\04.Multiplication-Sign\bin\Debug\04.Multiplication-Sign.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\04.Multiplication-Sign\bin\Debug\04.Multiplication-Sign.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\04.Multiplication-Sign\bin\Debug\04.Multiplication-Sign.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\04.Multiplication-Sign\obj\Debug\04.Multiplication-Sign.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\04.Multiplication-Sign\obj\Debug\04.Multiplication-Sign.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\04.Multiplication-Sign\obj\Debug\04.Multiplication-Sign.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\04.Multiplication-Sign\obj\Debug\04.Multiplication-Sign.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\04.Multiplication-Sign\obj\Debug\04.Multiplication-Sign.pdb

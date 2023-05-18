@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\03.CirclePerimeterAndArea\bin\Debug\ConsoleApplication1.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\03.CirclePerimeterAndArea\bin\Debug\ConsoleApplication1.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\03.CirclePerimeterAndArea\bin\Debug\ConsoleApplication1.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\03.CirclePerimeterAndArea\obj\Debug\ConsoleApplication1.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\03.CirclePerimeterAndArea\obj\Debug\ConsoleApplication1.pdb

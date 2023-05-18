@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\09.Play-with-int-duble-and-String\bin\Debug\09.Play-with-int-duble-and-String.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\09.Play-with-int-duble-and-String\bin\Debug\09.Play-with-int-duble-and-String.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\09.Play-with-int-duble-and-String\bin\Debug\09.Play-with-int-duble-and-String.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\09.Play-with-int-duble-and-String\obj\Debug\09.Play-with-int-duble-and-String.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\09.Play-with-int-duble-and-String\obj\Debug\09.Play-with-int-duble-and-String.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\09.Play-with-int-duble-and-String\obj\Debug\09.Play-with-int-duble-and-String.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\09.Play-with-int-duble-and-String\obj\Debug\09.Play-with-int-duble-and-String.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\09.Play-with-int-duble-and-String\obj\Debug\09.Play-with-int-duble-and-String.pdb

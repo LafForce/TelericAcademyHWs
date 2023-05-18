@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\06.The-Biggest-of-Five-Numbers\bin\Debug\06.The-Biggest-of-Five-Numbers.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\06.The-Biggest-of-Five-Numbers\bin\Debug\06.The-Biggest-of-Five-Numbers.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\06.The-Biggest-of-Five-Numbers\bin\Debug\06.The-Biggest-of-Five-Numbers.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\06.The-Biggest-of-Five-Numbers\obj\Debug\06.The-Biggest-of-Five-Numbers.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\06.The-Biggest-of-Five-Numbers\obj\Debug\06.The-Biggest-of-Five-Numbers.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\06.The-Biggest-of-Five-Numbers\obj\Debug\06.The-Biggest-of-Five-Numbers.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\06.The-Biggest-of-Five-Numbers\obj\Debug\06.The-Biggest-of-Five-Numbers.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\06.The-Biggest-of-Five-Numbers\obj\Debug\06.The-Biggest-of-Five-Numbers.pdb

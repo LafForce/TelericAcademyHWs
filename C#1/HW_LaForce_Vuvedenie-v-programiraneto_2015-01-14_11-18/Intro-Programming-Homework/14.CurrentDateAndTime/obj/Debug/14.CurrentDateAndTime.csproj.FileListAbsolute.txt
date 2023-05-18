@@ -8,3 +8,11 @@ C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-pr
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.pdb
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.exe
 C:\Users\LaForce\Documents\TelerikAcademyHWs\trunk\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.pdb

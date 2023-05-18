@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\03.Check-for-a-Play-Card\bin\Debug\03.Check -for-a-Play-Card.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\03.Check-for-a-Play-Card\bin\Debug\03.Check -for-a-Play-Card.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\03.Check-for-a-Play-Card\bin\Debug\03.Check -for-a-Play-Card.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\03.Check-for-a-Play-Card\obj\Debug\03.Check-for-a-Play-Card.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\03.Check-for-a-Play-Card\obj\Debug\03.Check-for-a-Play-Card.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\03.Check-for-a-Play-Card\obj\Debug\03.Check-for-a-Play-Card.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\03.Check-for-a-Play-Card\obj\Debug\03.Check -for-a-Play-Card.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\03.Check-for-a-Play-Card\obj\Debug\03.Check -for-a-Play-Card.pdb

@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\01.Exchange-If-Greater\bin\Debug\01.Exchange-If-Greater.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\01.Exchange-If-Greater\bin\Debug\01.Exchange-If-Greater.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\01.Exchange-If-Greater\bin\Debug\01.Exchange-If-Greater.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\01.Exchange-If-Greater\obj\Debug\01.Exchange-If-Greater.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\01.Exchange-If-Greater\obj\Debug\01.Exchange-If-Greater.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\01.Exchange-If-Greater\obj\Debug\01.Exchange-If-Greater.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\01.Exchange-If-Greater\obj\Debug\01.Exchange-If-Greater.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Uslovni-konstrukcii_2015-01-27_14-40\01.Exchange-If-Greater\obj\Debug\01.Exchange-If-Greater.pdb

@@ -30,55 +30,60 @@ Solution:
 ");
         //Thats because of comma and dot possible input problems:
         Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
-        Console.WriteLine( @"Please choose a type: 
-                            \n\r1 --> int                     
-                            \n\r2 --> double                
-                            \n\r3 --> string");
-                            
-        int digit = int.Parse(Console.ReadLine());
+        Console.WriteLine(@"Please choose a type: 
+                            1 --> int                     
+                            2 --> double                
+                            3 --> string");
         try
         {
-            switch (digit)
+            int digit = int.Parse(Console.ReadLine());
+
+            try
             {
-                case 1:
-                                        Console.WriteLine("Please enter an int");
-                    try
-                    {
-                        int numberInt = int.Parse(Console.ReadLine());
-                        Console.WriteLine("Result:" + numberInt + 1);
-                    }
-                    catch (Exception)
-                    {
-                        Console.WriteLine("You have probably not imputed an int number");
-                    }
-                    break;
-                case 2:
-                    Console.WriteLine("Please enter a double type number:");
-                    try
-                    {
-                        double number = double.Parse(Console.ReadLine());
-                        Console.WriteLine("Result:" + number + 1);
-                    }
-                    catch (Exception)
-                    {
-                        Console.WriteLine("You have probably not a double");
-                    }
-                    break;
-                case 3:
-                    Console.WriteLine("Please enter a string:");
-                    string strIng = Console.ReadLine();
-                    Console.WriteLine("Result:" + strIng + "*");
-                    break;
-                default:
-                    Console.WriteLine("No such an option");
-                    break;
+                switch (digit)
+                {
+                    case 1:
+                        Console.WriteLine("Please enter an int");
+                        try
+                        {
+                            int numberInt = int.Parse(Console.ReadLine()) + 1;
+                            Console.WriteLine("Result: " + numberInt);
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine("You have probably not imputed an int number");
+                        }
+                        break;
+                    case 2:
+                        Console.WriteLine("Please enter a double type number:");
+                        try
+                        {
+                            double number = double.Parse(Console.ReadLine()) + 1.0d;
+                            Console.WriteLine("Result: " + number);
+                        }
+                        catch (Exception)
+                        {
+                            Console.WriteLine("You have probably not a double");
+                        }
+                        break;
+                    case 3:
+                        Console.WriteLine("Please enter a string:");
+                        string strIng = Console.ReadLine();
+                        Console.WriteLine("Result: " + strIng + "*");
+                        break;
+                    default:
+                        Console.WriteLine("No such an option");
+                        break;
+                }
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("You have probably imputed an non-integral number type");
             }
         }
         catch (Exception)
         {
-            Console.WriteLine("You have probably imputed an non-integral number type");
+            Console.WriteLine("Invalid input!");
         }
-        
-
     }
 }

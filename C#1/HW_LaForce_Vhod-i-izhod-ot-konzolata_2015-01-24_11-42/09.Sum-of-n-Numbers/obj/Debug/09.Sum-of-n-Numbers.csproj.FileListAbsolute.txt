@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\09.Sum-of-n-Numbers\bin\Debug\09.Sum-of-n-Numbers.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\09.Sum-of-n-Numbers\bin\Debug\09.Sum-of-n-Numbers.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\09.Sum-of-n-Numbers\bin\Debug\09.Sum-of-n-Numbers.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\09.Sum-of-n-Numbers\obj\Debug\09.Sum-of-n-Numbers.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\09.Sum-of-n-Numbers\obj\Debug\09.Sum-of-n-Numbers.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\09.Sum-of-n-Numbers\obj\Debug\09.Sum-of-n-Numbers.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\09.Sum-of-n-Numbers\obj\Debug\09.Sum-of-n-Numbers.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\09.Sum-of-n-Numbers\obj\Debug\09.Sum-of-n-Numbers.pdb

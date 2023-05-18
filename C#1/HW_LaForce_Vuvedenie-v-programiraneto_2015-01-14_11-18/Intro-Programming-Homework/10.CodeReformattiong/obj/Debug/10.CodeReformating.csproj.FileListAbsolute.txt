@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\10.CodeReformattiong\bin\Debug\CodeReformattiong.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\10.CodeReformattiong\bin\Debug\CodeReformattiong.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\10.CodeReformattiong\bin\Debug\CodeReformattiong.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\10.CodeReformattiong\obj\Debug\10.CodeReformating.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\10.CodeReformattiong\obj\Debug\10.CodeReformating.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\10.CodeReformattiong\obj\Debug\10.CodeReformating.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\10.CodeReformattiong\obj\Debug\CodeReformattiong.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vuvedenie-v-programiraneto_2015-01-14_11-18\Intro-Programming-Homework\10.CodeReformattiong\obj\Debug\CodeReformattiong.pdb

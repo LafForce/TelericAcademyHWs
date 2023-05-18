@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\12.Falling-Rocks\obj\Debug\12.Falling-Rocks.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\12.Falling-Rocks\obj\Debug\12.Falling-Rocks.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\12.Falling-Rocks\obj\Debug\12.Falling-Rocks.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\12.Falling-Rocks\bin\Debug\12.Falling-Rocks.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\12.Falling-Rocks\bin\Debug\12.Falling-Rocks.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\12.Falling-Rocks\bin\Debug\12.Falling-Rocks.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\12.Falling-Rocks\obj\Debug\12.Falling-Rocks.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Vhod-i-izhod-ot-konzolata_2015-01-24_11-42\12.Falling-Rocks\obj\Debug\12.Falling-Rocks.pdb
