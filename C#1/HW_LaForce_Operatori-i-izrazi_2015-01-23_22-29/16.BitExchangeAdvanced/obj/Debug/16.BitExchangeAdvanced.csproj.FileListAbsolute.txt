@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.pdb

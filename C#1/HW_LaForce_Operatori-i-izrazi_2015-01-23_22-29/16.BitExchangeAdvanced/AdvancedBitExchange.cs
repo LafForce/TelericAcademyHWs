@@ -57,7 +57,7 @@ Solution:
         short p = short.Parse(Console.ReadLine());
         Console.WriteLine("Insert number \"q\" ");
         short q = short.Parse(Console.ReadLine());
-        Console.WriteLine("Insert number \"q\" ");
+        Console.WriteLine("Insert number \"k\" ");
         short k = short.Parse(Console.ReadLine());
 
         //check for overlap:

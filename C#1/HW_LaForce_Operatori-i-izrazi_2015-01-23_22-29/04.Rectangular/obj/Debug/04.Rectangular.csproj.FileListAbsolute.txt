@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\04.Rectangular\bin\Debug\04.Rectangular.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\04.Rectangular\bin\Debug\04.Rectangular.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\04.Rectangular\bin\Debug\04.Rectangular.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\04.Rectangular\obj\Debug\04.Rectangular.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\04.Rectangular\obj\Debug\04.Rectangular.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\04.Rectangular\obj\Debug\04.Rectangular.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\04.Rectangular\obj\Debug\04.Rectangular.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\04.Rectangular\obj\Debug\04.Rectangular.pdb

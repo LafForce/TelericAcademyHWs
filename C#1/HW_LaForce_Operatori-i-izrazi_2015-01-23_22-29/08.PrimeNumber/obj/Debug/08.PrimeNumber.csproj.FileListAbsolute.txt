@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\08.PrimeNumber\bin\Debug\08.PrimeNumber.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\08.PrimeNumber\bin\Debug\08.PrimeNumber.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\08.PrimeNumber\bin\Debug\08.PrimeNumber.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\08.PrimeNumber\obj\Debug\08.PrimeNumber.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\08.PrimeNumber\obj\Debug\08.PrimeNumber.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\08.PrimeNumber\obj\Debug\08.PrimeNumber.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\08.PrimeNumber\obj\Debug\08.PrimeNumber.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\08.PrimeNumber\obj\Debug\08.PrimeNumber.pdb

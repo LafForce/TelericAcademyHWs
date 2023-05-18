@@ -26,7 +26,7 @@ given weight on the Earth.
 Solution:
 
 ");
-            //Get the mass of the man of the Eath:
+            //Get the mass of the man on the Eath:
             Console.WriteLine("How much does the man weights on Earth?");
             int eathG = int.Parse(System.Console.ReadLine());
 

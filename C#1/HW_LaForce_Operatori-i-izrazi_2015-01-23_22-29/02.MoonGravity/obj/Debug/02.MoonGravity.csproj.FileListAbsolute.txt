@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\02.MoonGravity\bin\Debug\02.MoonGravity.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\02.MoonGravity\bin\Debug\02.MoonGravity.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\02.MoonGravity\bin\Debug\02.MoonGravity.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\02.MoonGravity\obj\Debug\02.MoonGravity.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\02.MoonGravity\obj\Debug\02.MoonGravity.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\02.MoonGravity\obj\Debug\02.MoonGravity.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\02.MoonGravity\obj\Debug\02.MoonGravity.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\02.MoonGravity\obj\Debug\02.MoonGravity.pdb

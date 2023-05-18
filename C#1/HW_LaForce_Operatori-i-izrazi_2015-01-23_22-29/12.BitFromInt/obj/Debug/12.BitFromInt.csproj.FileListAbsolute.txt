@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\12.BitFromInt\bin\Debug\12.BitFromInt.exe.config
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\12.BitFromInt\bin\Debug\12.BitFromInt.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\12.BitFromInt\bin\Debug\12.BitFromInt.pdb
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\12.BitFromInt\obj\Debug\12.BitFromInt.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\12.BitFromInt\obj\Debug\12.BitFromInt.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\12.BitFromInt\obj\Debug\12.BitFromInt.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\12.BitFromInt\obj\Debug\12.BitFromInt.exe
+D:\code\TelerikAcademyHWs\C#1\HW_LaForce_Operatori-i-izrazi_2015-01-23_22-29\12.BitFromInt\obj\Debug\12.BitFromInt.pdb
