@@ -39,11 +39,11 @@ Solution:");
         //display:
         Console.WriteLine("The two arrays are: {0}", areEQ ? "\"Equal\"" : "\"Not equal\"");
         Console.WriteLine();
-        
-        //for (int i = 0; i < first.Length; i++)
-        //{
-        //    Console.Write("{0}; {1}", first[i], second[i]);
-        //}
-        //Console.WriteLine();
+
+        for (int i = 0; i < first.Length; i++)
+        {
+            Console.Write("{0}; {1}", first[i], second[i]);
+        }
+        Console.WriteLine();
     }
 }

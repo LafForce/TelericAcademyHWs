@@ -22,34 +22,36 @@ Solution:");
 
 
         //Input data colection:
-        Console.WriteLine("Enter N, please.");
-        int n = int.Parse(Console.ReadLine());
+        //Console.WriteLine("Enter N, please.");
+        //int n = int.Parse(Console.ReadLine());
 
-        int[] arr = new int[n];
+        //int[] arr = new int[n];
 
-        Console.WriteLine("Enter {0} integers on sepparate rows, please.", n);
-      
-        for (int i = 0; i < n; i++)
-        {
-            arr[i] = int.Parse(Console.ReadLine());
-        }
+        //Console.WriteLine("Enter {0} integers on sepparate rows, please.", n);
+
+        //for (int i = 0; i < n; i++)
+        //{
+        //    arr[i] = int.Parse(Console.ReadLine());
+        //}
+
+        int[] arr = { 2, 3, -6, -1, 2, -1, 6, 4, -8, 8 };
 
         //the check:
         int sum = 0;
-        int totalSum = int.MinValue;
+        int totalSum = 0;
         List<int> sequ = new List<int>();
 
         for (int i = 0; i < arr.Length; i++)
         {
-            sequ.Add(arr[i]);
+            
             sum += arr[i];
 
-            if (sum <= 0)
+            if (sum <= totalSum)
             {
                 sum = 0;
                 sequ.Clear();
             }
-            else if (totalSum < sum)
+            else 
             {
                 totalSum = sum;
             }

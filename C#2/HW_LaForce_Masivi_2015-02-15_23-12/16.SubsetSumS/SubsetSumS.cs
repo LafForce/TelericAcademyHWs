@@ -18,7 +18,7 @@ Solution:");
         //get data:
         Console.WriteLine("Insert secquence of separated integers on the fowolling row, please.");
 
-        int[] numberSequ = Console.ReadLine().Split(new char[] { ' ', ',', '\t' }, StringSplitOptions.RemoveEmptyEntries)
+        int[] numberSequ = Console.ReadLine().Split(new char[] { ' ', ',', '\t', '.' }, StringSplitOptions.RemoveEmptyEntries)
                .Select(x => int.Parse(x)).OrderBy(x => x).ToArray();
 
         Console.WriteLine("Insert the sum S you are interested in, please.");

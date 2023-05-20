@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\18.Remove-Element-from-Array\bin\Debug\18.Remove-Element-from-Array.exe.config
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\18.Remove-Element-from-Array\bin\Debug\18.Remove-Element-from-Array.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\18.Remove-Element-from-Array\bin\Debug\18.Remove-Element-from-Array.pdb
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\18.Remove-Element-from-Array\obj\Debug\18.Remove-Element-from-Array.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\18.Remove-Element-from-Array\obj\Debug\18.Remove-Element-from-Array.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\18.Remove-Element-from-Array\obj\Debug\18.Remove-Element-from-Array.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\18.Remove-Element-from-Array\obj\Debug\18.Remove-Element-from-Array.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\18.Remove-Element-from-Array\obj\Debug\18.Remove-Element-from-Array.pdb

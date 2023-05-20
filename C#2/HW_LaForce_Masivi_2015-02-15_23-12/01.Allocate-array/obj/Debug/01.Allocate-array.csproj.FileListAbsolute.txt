@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\01.Allocate-array\bin\Debug\01.Allocate-array.exe.config
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\01.Allocate-array\bin\Debug\01.Allocate-array.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\01.Allocate-array\bin\Debug\01.Allocate-array.pdb
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\01.Allocate-array\obj\Debug\01.Allocate-array.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\01.Allocate-array\obj\Debug\01.Allocate-array.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\01.Allocate-array\obj\Debug\01.Allocate-array.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\01.Allocate-array\obj\Debug\01.Allocate-array.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\01.Allocate-array\obj\Debug\01.Allocate-array.pdb

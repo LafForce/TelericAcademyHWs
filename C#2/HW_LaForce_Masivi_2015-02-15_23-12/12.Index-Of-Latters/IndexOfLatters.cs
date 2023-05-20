@@ -14,19 +14,23 @@ Solution:");
         //create an array containing all letters from the alphabet (A-Z):
         char[] alfabethCapitals = new char[26];
 
+        Console.WriteLine("Display of the alphabet array");
+        Console.Write("Index:  ");
         for (int i = 0; i < alfabethCapitals.Length; i++)
         {
-            alfabethCapitals[i] = (char)('A' + i);
+            Console.Write("{0,-3}|", i);
         }
-        ////display of the alphabet array if you wish:
-        //for (int i = 0; i < alfapheth.Length; i++)
-        //{
-        //    Console.WriteLine(alfapheth[i]);
-        //}
+        Console.WriteLine();
+        Console.Write("Letter: ");
+        for (int i = 0; i < alfabethCapitals.Length; i++)
+        {
+            Console.Write("{0,-3}|", alfabethCapitals[i] = (char)('A' + i));
+        }
+        Console.WriteLine();
 
         //get the word:
         Console.WriteLine("Insert a word on the fowolling row, using CAPITAL letters(A-Z), please.");
-        char[] word = Console.ReadLine().ToCharArray();
+        char[] word = Console.ReadLine().ToUpper().ToCharArray();
         
         //the chk and display:
         Console.WriteLine();

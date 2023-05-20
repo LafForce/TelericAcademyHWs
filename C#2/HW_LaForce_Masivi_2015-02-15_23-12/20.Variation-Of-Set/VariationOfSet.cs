@@ -15,7 +15,7 @@ public class VariationsWithReps
 
         do
         {
-            Console.Write("Please insertsize of the set (N).");
+            Console.Write("Please insert the size of the set (N).");
             numberN = Console.ReadLine();
         }
         while (!Int32.TryParse(numberN, out n) || n <= 0);

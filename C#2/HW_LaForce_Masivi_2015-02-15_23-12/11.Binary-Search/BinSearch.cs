@@ -30,11 +30,11 @@ Solution:");
         //the check:
         int min = 0;
         int max = inputArray.Length;
-
+        int counter = 0;
         while (min <= max)
         {
             int mid = ((min + max) / 2);
-
+            counter++;
             if (number == inputArray[mid])
             {
                 Console.WriteLine("The value has the index {0} in this array.", mid);

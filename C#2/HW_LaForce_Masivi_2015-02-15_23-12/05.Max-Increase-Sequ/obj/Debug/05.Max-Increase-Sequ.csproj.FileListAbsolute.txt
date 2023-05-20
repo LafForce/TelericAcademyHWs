@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\05.Max-Increase-Sequ\bin\Debug\05.Max-Increase-Sequ.exe.config
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\05.Max-Increase-Sequ\bin\Debug\05.Max-Increase-Sequ.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\05.Max-Increase-Sequ\bin\Debug\05.Max-Increase-Sequ.pdb
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\05.Max-Increase-Sequ\obj\Debug\05.Max-Increase-Sequ.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\05.Max-Increase-Sequ\obj\Debug\05.Max-Increase-Sequ.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\05.Max-Increase-Sequ\obj\Debug\05.Max-Increase-Sequ.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\05.Max-Increase-Sequ\obj\Debug\05.Max-Increase-Sequ.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\05.Max-Increase-Sequ\obj\Debug\05.Max-Increase-Sequ.pdb

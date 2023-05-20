@@ -5,7 +5,7 @@ class PermutationOfSet
 {
     static void Given()
     {
-        System.Console.WriteLine(@"Problem 19.* Permutations of set
+        Console.WriteLine(@"Problem 19.* Permutations of set
 Write a program that reads a number N and generates and prints all the 
 permutations of the numbers [1 … N].
 Example:
@@ -38,42 +38,42 @@ Solution:");
         {
             arrayPermuted[i] = i + 1;
         }
+
         /* Calling the permute */
-        caseOne.setper(arrayPermuted);
+        caseOne.SetPermutation(arrayPermuted);
     }
-
-    //the swap:
-    private void swap(ref int a, ref int b)
-    {
-        if (a == b)
-            return;
-        a ^= b;
-        b ^= a;
-        a ^= b;
-    }
-
+       
     //the different sets:
-    public void setper(int[] list)
+    public void SetPermutation(int[] ArrayOfOrderedNumbersToBePermuted)
     {
-        int x = list.Length - 1;
-        permutation(list, 0, x);
+        Permutation(ArrayOfOrderedNumbersToBePermuted, 0, ArrayOfOrderedNumbersToBePermuted.Length - 1);
     }
 
     //the action:
-    private void permutation(int[] list, int k, int m)
+    private void Permutation(int[] arrayOfOrderedNumbers, int startIndex, int endIndex)
     {
-        int i;
-        if (k == m)
+        int currentIndex;
+        if (startIndex == endIndex)
         {
-            string result = String.Join(", ", list);
+            string result = String.Join(", ", arrayOfOrderedNumbers);
             Console.WriteLine(result);
         }
         else
-            for (i = k; i <= m; i++)
+            for (currentIndex = startIndex; currentIndex <= endIndex; currentIndex++)
             {
-                swap(ref list[k], ref list[i]);
-                permutation(list, k + 1, m);
-                swap(ref list[k], ref list[i]);
+                Swap(ref arrayOfOrderedNumbers[startIndex], ref arrayOfOrderedNumbers[currentIndex]);
+                Permutation(arrayOfOrderedNumbers, startIndex + 1, endIndex);
+                Swap(ref arrayOfOrderedNumbers[startIndex], ref arrayOfOrderedNumbers[currentIndex]);
             }
     }
+
+    //the swap:
+    private void Swap(ref int currentStartIndex, ref int currentEndIndex)
+    {
+        if (currentStartIndex == currentEndIndex) return;
+        currentStartIndex ^= currentEndIndex;
+        currentEndIndex ^= currentStartIndex;
+        currentStartIndex ^= currentEndIndex;
+    }
+
 }

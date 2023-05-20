@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\14.Quick-Sort\bin\Debug\14.Quick-Sort.exe.config
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\14.Quick-Sort\bin\Debug\14.Quick-Sort.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\14.Quick-Sort\bin\Debug\14.Quick-Sort.pdb
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\14.Quick-Sort\obj\Debug\14.Quick-Sort.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\14.Quick-Sort\obj\Debug\14.Quick-Sort.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\14.Quick-Sort\obj\Debug\14.Quick-Sort.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\14.Quick-Sort\obj\Debug\14.Quick-Sort.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\14.Quick-Sort\obj\Debug\14.Quick-Sort.pdb

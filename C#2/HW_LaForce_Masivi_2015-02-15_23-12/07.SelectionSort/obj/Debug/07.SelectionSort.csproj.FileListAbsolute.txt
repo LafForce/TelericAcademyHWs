@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\07.SelectionSort\bin\Debug\07.SelectionSort.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\07.SelectionSort\obj\Debug\07.SelectionSort.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\07.SelectionSort\obj\Debug\07.SelectionSort.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\07.SelectionSort\obj\Debug\07.SelectionSort.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\07.SelectionSort\obj\Debug\07.SelectionSort.pdb

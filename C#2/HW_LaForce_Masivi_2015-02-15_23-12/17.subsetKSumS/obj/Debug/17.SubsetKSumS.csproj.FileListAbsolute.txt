@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\17.subsetKSumS\bin\Debug\17.subsetKSumS.exe.config
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\17.subsetKSumS\bin\Debug\17.subsetKSumS.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\17.subsetKSumS\bin\Debug\17.subsetKSumS.pdb
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\17.subsetKSumS\obj\Debug\17.SubsetKSumS.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\17.subsetKSumS\obj\Debug\17.SubsetKSumS.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\17.subsetKSumS\obj\Debug\17.SubsetKSumS.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\17.subsetKSumS\obj\Debug\17.subsetKSumS.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\17.subsetKSumS\obj\Debug\17.subsetKSumS.pdb

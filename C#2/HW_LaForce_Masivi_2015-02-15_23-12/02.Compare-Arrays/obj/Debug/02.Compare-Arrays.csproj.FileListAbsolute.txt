@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\02.Compare-Arrays\bin\Debug\02.Compare-Arrays.exe.config
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\02.Compare-Arrays\bin\Debug\02.Compare-Arrays.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\02.Compare-Arrays\bin\Debug\02.Compare-Arrays.pdb
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\02.Compare-Arrays\obj\Debug\02.Compare-Arrays.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\02.Compare-Arrays\obj\Debug\02.Compare-Arrays.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\02.Compare-Arrays\obj\Debug\02.Compare-Arrays.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\02.Compare-Arrays\obj\Debug\02.Compare-Arrays.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\02.Compare-Arrays\obj\Debug\02.Compare-Arrays.pdb

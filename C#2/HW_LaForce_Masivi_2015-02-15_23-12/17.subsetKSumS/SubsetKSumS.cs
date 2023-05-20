@@ -28,6 +28,11 @@ Solution:");
         int length = int.Parse(Console.ReadLine().ToString());
         Console.WriteLine();
 
+        //foreach (int number in numberSequ)
+        //{
+        //    Console.Write(number + ", ");
+        //}
+
         //chk:
         bool thereIs = false;
         int currentsum = 0;

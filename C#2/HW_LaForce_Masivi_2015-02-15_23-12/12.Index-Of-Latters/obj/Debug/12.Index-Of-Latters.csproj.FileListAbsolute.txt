@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\12.Index-Of-Latters\bin\Debug\12.Index-Of-Latters.exe.config
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\12.Index-Of-Latters\bin\Debug\12.Index-Of-Latters.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\12.Index-Of-Latters\bin\Debug\12.Index-Of-Latters.pdb
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\12.Index-Of-Latters\obj\Debug\12.Index-Of-Latters.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\12.Index-Of-Latters\obj\Debug\12.Index-Of-Latters.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\12.Index-Of-Latters\obj\Debug\12.Index-Of-Latters.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\12.Index-Of-Latters\obj\Debug\12.Index-Of-Latters.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\12.Index-Of-Latters\obj\Debug\12.Index-Of-Latters.pdb

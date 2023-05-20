@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\11.Binary-Search\bin\Debug\11.Binary-Search.exe.config
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\11.Binary-Search\bin\Debug\11.Binary-Search.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\11.Binary-Search\bin\Debug\11.Binary-Search.pdb
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\11.Binary-Search\obj\Debug\11.Binary-Search.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\11.Binary-Search\obj\Debug\11.Binary-Search.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\11.Binary-Search\obj\Debug\11.Binary-Search.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\11.Binary-Search\obj\Debug\11.Binary-Search.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\11.Binary-Search\obj\Debug\11.Binary-Search.pdb

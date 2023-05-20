@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\20.Variation-Of-Set\bin\Debug\20.Variation-Of-Set.exe.config
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\20.Variation-Of-Set\bin\Debug\20.Variation-Of-Set.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\20.Variation-Of-Set\bin\Debug\20.Variation-Of-Set.pdb
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\20.Variation-Of-Set\obj\Debug\20.Variation-Of-Set.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\20.Variation-Of-Set\obj\Debug\20.Variation-Of-Set.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\20.Variation-Of-Set\obj\Debug\20.Variation-Of-Set.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\20.Variation-Of-Set\obj\Debug\20.Variation-Of-Set.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\20.Variation-Of-Set\obj\Debug\20.Variation-Of-Set.pdb

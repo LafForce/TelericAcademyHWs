@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\19.Permutation-Of-Set\bin\Debug\19.Permutation-Of-Set.exe.config
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\19.Permutation-Of-Set\bin\Debug\19.Permutation-Of-Set.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\19.Permutation-Of-Set\bin\Debug\19.Permutation-Of-Set.pdb
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\19.Permutation-Of-Set\obj\Debug\19.Permutation-Of-Set.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\19.Permutation-Of-Set\obj\Debug\19.Permutation-Of-Set.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\19.Permutation-Of-Set\obj\Debug\19.Permutation-Of-Set.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\19.Permutation-Of-Set\obj\Debug\19.Permutation-Of-Set.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\19.Permutation-Of-Set\obj\Debug\19.Permutation-Of-Set.pdb

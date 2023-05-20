@@ -41,9 +41,7 @@ Solution:");
                     min = j;
                 }
             }
-            int temp = array[i];
-            array[i] = array[min];
-            array[min] = temp;
+            (array[min], array[i]) = (array[i], array[min]);
         }
         foreach (int item in array)
         {

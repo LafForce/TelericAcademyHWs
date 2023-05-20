@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\06.MaxKSum\bin\Debug\06.MaxKSum.exe.config
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\06.MaxKSum\bin\Debug\06.MaxKSum.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\06.MaxKSum\bin\Debug\06.MaxKSum.pdb
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\06.MaxKSum\obj\Debug\06.MaxKSum.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\06.MaxKSum\obj\Debug\06.MaxKSum.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\06.MaxKSum\obj\Debug\06.MaxKSum.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\06.MaxKSum\obj\Debug\06.MaxKSum.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\06.MaxKSum\obj\Debug\06.MaxKSum.pdb

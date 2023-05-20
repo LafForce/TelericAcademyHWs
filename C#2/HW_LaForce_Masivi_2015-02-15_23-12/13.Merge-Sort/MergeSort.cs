@@ -14,12 +14,30 @@ class Merge
         // imputed unsorted array:
         int[] numbers = { 16, 2, 5, 59, 6, 10, 345, 13, 14, 1, 12, 178, 20, 125, 3880, 33, 334, 33, 23, 50, 202, 2220, 2122, 30 };
 
-
-        //manual imput?:
+        ////manual imput?:
         //Console.WriteLine("Insert unsorted array on the fowolling row, please.");
-        //int[] numbers = Console.ReadLine().Split(new char[] { ' ', '.', '\t', ',' }
-        //    , StringSplitOptions.RemoveEmptyEntries).Select(x => int.Parse(x)).ToArray();
+        
+        ////int[] numbers = Console.ReadLine().Split(new char[] { ' ', '.', '\t', ',' }
+        ////    , StringSplitOptions.RemoveEmptyEntries).Select(x => int.Parse(x)).ToArray();
 
+        ////another way of getting numbers(also negative) from a row sepparated by any nonnumerical char
+        //char[] seque = Console.ReadLine().ToCharArray();
+        //StringBuilder nextNumber = new StringBuilder();
+        //List<int> numbersList = new List<int>();    
+        //foreach (char ch in seque)
+        //{
+        //    if (char.IsNumber(ch) || ch == '-')
+        //    {
+        //        nextNumber.Append(ch);
+        //    }
+        //    else
+        //    {
+        //        if(int.TryParse(nextNumber.ToString(), out int intnum))
+        //        numbersList.Add(intnum);
+        //        nextNumber.Clear();
+        //    }
+        //}
+        //int[] numbers = numbersList.ToArray();  
 
         //the output:
         Console.WriteLine("Sorted array:");
@@ -50,7 +68,7 @@ class Merge
     //merge of sorted arrays:
     static public void DoMerge(int[] numbers, int left, int mid, int right)
     {
-        int[] temp = new int[25];
+        int[] temp = new int[numbers.Length];
         int i, left_end, num_elements, tmp_pos;
 
         left_end = (mid - 1);

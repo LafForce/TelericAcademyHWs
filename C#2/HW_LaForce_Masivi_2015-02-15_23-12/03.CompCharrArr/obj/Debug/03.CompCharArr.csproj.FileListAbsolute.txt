@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\03.CompCharrArr\bin\Debug\03.CompCharrArr.exe.config
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\03.CompCharrArr\bin\Debug\03.CompCharrArr.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\03.CompCharrArr\bin\Debug\03.CompCharrArr.pdb
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\03.CompCharrArr\obj\Debug\03.CompCharArr.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\03.CompCharrArr\obj\Debug\03.CompCharArr.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\03.CompCharrArr\obj\Debug\03.CompCharArr.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\03.CompCharrArr\obj\Debug\03.CompCharrArr.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Masivi_2015-02-15_23-12\03.CompCharrArr\obj\Debug\03.CompCharrArr.pdb
