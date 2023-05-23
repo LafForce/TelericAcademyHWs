@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\01.Say-Hello\obj\Debug\01.Say-Hello.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\01.Say-Hello\obj\Debug\01.Say-Hello.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\01.Say-Hello\obj\Debug\01.Say-Hello.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\01.Say-Hello\bin\Debug\01.Say-Hello.exe.config
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\01.Say-Hello\bin\Debug\01.Say-Hello.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\01.Say-Hello\bin\Debug\01.Say-Hello.pdb
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\01.Say-Hello\obj\Debug\01.Say-Hello.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\01.Say-Hello\obj\Debug\01.Say-Hello.pdb

@@ -1,0 +1,8 @@
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\02.Get-Largest-Number\bin\Debug\02.Get-Largest-Number.exe.config
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\02.Get-Largest-Number\bin\Debug\02.Get-Largest-Number.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\02.Get-Largest-Number\bin\Debug\02.Get-Largest-Number.pdb
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\02.Get-Largest-Number\obj\Debug\02.Get-Largest-Number.csproj.AssemblyReference.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\02.Get-Largest-Number\obj\Debug\02.Get-Largest-Number.csproj.SuggestedBindingRedirects.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\02.Get-Largest-Number\obj\Debug\02.Get-Largest-Number.csproj.CoreCompileInputs.cache
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\02.Get-Largest-Number\obj\Debug\02.Get-Largest-Number.exe
+D:\code\TelerikAcademyHWs\C#2\HW_LaForce_Metodi_2015-02-21_18-26\02.Get-Largest-Number\obj\Debug\02.Get-Largest-Number.pdb
